@@ -1,0 +1,402 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --sidebar-width: 225px;
+}
+
+body {
+    background-color: #808080; /* This sets the background color to grey */
+}
+
+.sidebar {
+    width: var(--sidebar-width);
+    height: 100vh;
+    background-color: #4e4a4a;
+    position: fixed;
+    top: 0;
+}
+
+.sidebar__heading {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    margin-left: 23px;
+    margin-top: 36px;
+    text-transform: uppercase;
+}
+
+.sidebar__nav {
+    margin-top: 40px;
+}
+
+.sidebar__nav__link a {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding: 14px 10px 14px 20px;
+    display: inline-block;
+    width: 100%;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.sidebar__nav__link a:hover {
+    background-color: #d4d4d4;
+}
+
+.sidebar__nav__link a>span:first-child {
+    display: inline-block;
+    width: 34px;
+}
+
+.active {
+    position: relative;
+}
+
+.active::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    height: 50px;
+    left: 1px;
+    width: 4px;
+    border-radius: 3px;
+    background-color: rgb(150, 150, 150);
+}
+
+.expand {
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 3px 10px;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.sidebar__settings {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #d4d4d4;
+}
+
+.container {
+    margin-left: var(--sidebar-width);
+    padding: 43px;
+}
+
+.container__main {
+    display: flex;
+    gap: 60px;
+}
+
+.container_parent {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.container_main_element {
+    display: flex;
+    gap: 20px;
+}
+
+.container_main_element .icon span {
+    background-color: #f1f1f1;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_main_element .details h2 {
+    font-weight: normal;
+}
+
+.container__profile {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.container__profile img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#tables__section {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.accounts {
+    background-color: black;
+    color: whitesmoke;
+    padding: 30px;
+    flex-basis: 50%;
+}
+
+.accounts__heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.accounts__heading h2 {
+    font-weight: normal;
+}
+
+.accounts__content__heading {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.accounts__content__heading span {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.text__card__pro {
+    margin-top: 20px;
+    color: #acacac;
+    font-size: small;
+}
+
+.Monthly__payment {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.for__card {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.transaction {
+    flex-basis: 50%;
+    gap: 50px;
+}
+
+.transaction__headding {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.container__of__github {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.trans__first__row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#tra__link {
+    text-decoration: none;
+    color: black;
+}
+
+#tra__link h2 {
+    font-weight: normal;
+}
+
+.icon__gitHub i {
+    background-color: #979597;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon__gitHubb i {
+    background-color: #bacfb9;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon__gitHubbb i {
+    background-color: #a5b862;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon__gitHubbbb i {
+    background-color: #c4b6ee;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__of__github:hover {
+    background-color: #d4d4d4;
+    transition: 0.2s;
+    padding: 20px;
+}
+
+/*----------------------------- end ---------------------- */
+
+.bottom__box {
+    gap: 20px;
+    display: flex;
+}
+
+.bottom__box__first__container {
+    flex-basis: 50%;
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.first__box {
+    height: 241px;
+    width: 245px;
+    background-color: #c4b6ee;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.second__box {
+    height: 241px;
+    width: 245px;
+    background-color: #bacfb9;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.bottom__box__last__container {
+    margin-top: 30px;
+    /* margin-right: 15px; */
+    position: relative;
+}
+
+.text__img {
+    position: absolute;
+}
+
+.bottom__box__last__container img {
+    height: 241px;
+    border-radius: 4px;
+    /* margin-right: 5px; */
+    width: 97%;
+}
+
+.first__box span i {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.second__box span i {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.bottom__left {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.text__img ul {
+    padding: 20px;
+    margin-left: 15px;
+}
+
+@media only screen and (max-width: 500px) {
+    .sidebar {
+        display: none;
+    }
+
+    .container {
+        margin-left: 0px;
+        padding: 10px;
+    }
+
+    .container__main {
+        flex-direction: column;
+    }
+
+    #tables__section {
+        flex-direction: column;
+    }
+
+    .accounts {
+        flex-basis: 100%;
+    }
+
+    .transaction {
+        flex-basis: 100%;
+    }
+
+    .bottom__box {
+        flex-direction: column;
+    }
+
+    .bottom__box__first__container {
+        gap: 8px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container__main {
+        flex-direction: column;
+        gap: 12px;
+    }
+}
+
+/* Add this to shift the iframe down and add a black border */
+.map-iframe {
+    margin-top: 75px;
+    max-width: 1300px;
+    border: 2px solid black;
+}
+
+/* Custom CSS for the custom-text-block class */
+.custom-text-block {
+    font-size: 20px;           /* Big font size */
+    line-height: 1.6;          /* Increased line height for readability */
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 20px;             /* Padding around the text */
+    border-radius: 10px;       /* Rounded corners */
+    border: 1px solid #ccc;    /* Light grey border */
+    margin-top: 50px;          /* Shifted down by 50 pixels */
+}
+.custom-text-block p {
+    margin: 0 0 10px;          /* Margin between paragraphs */
+}

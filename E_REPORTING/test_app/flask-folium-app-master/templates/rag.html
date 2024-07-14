@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <aside class="sidebar">
+        <h2 class="sidebar__heading">LifeLine AI</h2>
+        <ul class="sidebar__nav">
+            <li class="sidebar__nav__link"><a href="{{ url_for('home') }}"><span><i
+                class="fa-solid fa-house"></i></span><span>Home</span></a></li>
+            <li class="sidebar__nav__link"><a href="{{ url_for('dash') }}"><span><i
+                            class="fa-solid fa-building"></i></span><span>Map</span></a></li>
+            <li class="sidebar__nav__link"><a href="{{ url_for('rag') }}" class="active"><span><i
+                            class="fa-solid fa-arrows-rotate"></i></span><span>RAG</span></a></li>
+            <!-- <li class="sidebar__nav__link"><a href="#"><span><i
+                            class="fa-regular fa-building"></i></span><span>Company</span> <span
+                        class="expand">4</span></a></li>
+            <li class="sidebar__nav__link"><a href="#"><span><i
+                            class="fa-regular fa-credit-card"></i></span><span>Card</span></a></li>
+            <li class="sidebar__nav__link"><a href="#"><span><i
+                            class="fa-solid fa-arrows-rotate"></i></span><span>Exchange</span></a></li> -->
+        </ul>
+        <div class="sidebar__settings sidebar__nav__link">
+            <a href="#">
+                <span>
+                    <i class="fas fa-cog"></i>
+                </span>
+                <span>
+                    Settings
+                </span>
+            </a>
+        </div>
+    </aside>
+    <main class="container">
+        <!-- container heading start -->
+        <div class="container_parent">
+            <div class="container__main">
+                <div class="container_main_element">
+                    <div class="icon">
+                        <span>
+                            <i class="fas fa-users"></i>
+                        </span>
+                    </div>
+                    <div class="details">
+                        <h2>Team</h2>
+                        <small>View Members</small>
+                    </div>
+                </div>
+                <div class="container_main_element">
+                    <div class="icon">
+                        <span>
+                            <i class="fas fa-phone"></i>
+                        </span>
+                    </div>
+                    <div class="details">
+                        <h2>Call Transcripts</h2>
+                        <small>View History</small>
+                    </div>
+                </div>
+                <div class="container_main_element">
+                    <div class="icon">
+                        <span>
+                            <i class="fas fa-newspaper"></i>
+                        </span>
+                    </div>
+                    <div class="details">
+                        <h2>News Stories</h2>
+                        <small>Local / National</small>
+                    </div>
+                </div>
+                <!-- <div class="container_main_element">
+                    <div class="icon">
+                        <span>
+                            <i class="fas fa-suitcase"></i>
+                        </span>
+                    </div>
+                    <div class="details">
+                        <h2>$ 100,34,330</h2>
+                        <small>Your funds</small>
+                    </div>
+                </div> -->
+            </div>
+            <div class="container__profile">
+                <a href="#"><span>
+                        <i class="fa-solid fa-ellipsis"></i>
+                    </span></a>
+
+                <div>
+                    <img src="https://centerstone.org/wp-content/uploads/First-Responder-Pin.jpg" alt="profile ">
+                </div>
+            </div>
+        </div>
+        <!-- container heading end -->
+
+        <!-- Insert RAG chat here -->
+        <div class="custom-text-block"> <p>Chat coming soon...</p> </div>
+        <div class="custom-text-block"> <p>...</p> </div>
+        <div class="custom-text-block"> <p>...</p> </div>
+        <div class="custom-text-block"> <p>...</p> </div>
+    </main>
+</body>
+
+</html>

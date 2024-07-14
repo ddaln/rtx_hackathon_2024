@@ -5,7 +5,7 @@
         "Type of Building": "Utility Pole",
         "Type of Consumer Services": "voice, video, data",
         "Number of Antennas": 1,
-        "Radio Frequency Range (Megahertz)": "1900 / 2100",
+        "Radio Frequency Range (Megahertz)": "1900 / 2100"
     },
     {
         "Carrier": "Tmobile",
@@ -13,7 +13,7 @@
         "Type of Building": "Utility Pole",
         "Type of Consumer Services": "voice, video, data",
         "Number of Antennas": 1,
-        "Radio Frequency Range (Megahertz)": "1900",
+        "Radio Frequency Range (Megahertz)": "1900"
     },
     {
         "Carrier": "AT&T",
