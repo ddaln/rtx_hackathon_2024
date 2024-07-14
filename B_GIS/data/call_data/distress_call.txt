@@ -1,0 +1,9 @@
+Operator:  what is your emergency?
+Caller: (panicked) Oh, please help! I'm trapped above the 30th floor in a building in San Francisco! The elevator broke down and I can't get out! I know there are dozens of us up here probably trapped too.
+Operator: Sir, can you stay calm and tell me more about your situation? What's your location?
+Caller: (breathlessly) I'm in the [garbled] building on [garbled] . I was on my way to a meeting and the elevator just stopped working. I've been trying to find a way out, but the stairs are locked and I can't get anyone to answer the intercom. The aftershocks are coming after 30 minutes and am worried the elevator cable may snap.
+Operator: Okay, sir. I'm going to send someone to assist you. Can you stay on the line and keep me updated on your situation?
+Caller: (desperate) Please hurry! I'm getting really scared up here. I don't know how much longer I can hold on.
+Operator: Sir, help is on the way. Just stay calm and stay on the line. We'll get you out of there as soon as possible.
+Caller: (tearfully) Thank you… thank you so much…
+Notes: Call drops. Operator indicates was roaming off mutiple weak towers [in log] and too fast to get a good location. Carriers confirm it was a legit caller and identity is being tracked down. 

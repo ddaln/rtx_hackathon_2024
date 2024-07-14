@@ -1,4 +1,4 @@
-import RAG.database as database
+
 
 
 class ChromaSetup:

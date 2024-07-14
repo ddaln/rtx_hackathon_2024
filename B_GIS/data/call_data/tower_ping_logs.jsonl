@@ -1,0 +1,42 @@
+[
+    {
+        "Carrier": "Tmobile",
+        "Address": "Pacheco Street",
+        "Type of Building": "Utility Pole",
+        "Type of Consumer Services": "voice, video, data",
+        "Number of Antennas": 1,
+        "Radio Frequency Range (Megahertz)": "1900 / 2100",
+    },
+    {
+        "Carrier": "Tmobile",
+        "Address": "Garfield Street",
+        "Type of Building": "Utility Pole",
+        "Type of Consumer Services": "voice, video, data",
+        "Number of Antennas": 1,
+        "Radio Frequency Range (Megahertz)": "1900",
+    },
+    {
+        "Carrier": "AT&T",
+        "Address" : "825 Lincoln Way",
+        "Type of Building": "Utility",
+        "Type of Consumer Services": "voice, video & data",
+        "Number of Antennas": 1,
+        "Radio Frequency Range (Megahertz)": "1900, 5000"
+    },
+    {
+        "Carrier": "AT&T",
+        "Address" : "4175 Mission Street",
+        "Type of Building": "Commercial",
+        "Type of Consumer Services": "voice, video & data",
+        "Number of Antennas": 12,
+        "Radio Frequency Range (Megahertz)": "700, 850, 1900, 1700, 2300"
+    },
+    {
+        "Carrier": "Tmobile",
+        "Address" : "Turk Street",
+        "Type of Building": "Utility Pole",
+        "Type of Consumer Services": "voice, video, data",
+        "Number of Antennas": 1,
+        "Radio Frequency Range (Megahertz)": "1900 / 2100"
+    }
+]

@@ -1,0 +1,885 @@
+Carrier,ID ,Search Ring Name ID,Block,Lot,Zoning District,Hight and Bulk District,Type of Building,Preference (1-7),Type of Consumer Services,Type of Consumer Products,Number of Antennas,Location of BTS,Type of Technology,Radio Frequency Range (Megahertz),Power Output of Equipment (Watts),Height to Top of Antenna,Name of Community Liason,Phone Number of Community Liason,Comments,Latitude,Longitude
+AT&T,CCL00001,Marshall Hale,1017,028,RM-2,80-E,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,87,Melissa Murphree,925-963-8027,CCL02745 is a proposed replacement for CCL00001,37.78688,-122.45489
+AT&T,CCL00002,Embarcadero,0237,014/016,C-3-O,350-S,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,252,Melissa Murphree,925-963-8027,,37.79398,-122.39962
+AT&T,CCL00005,Mercy High School,7231,003,RH-1(D),40-X,Public,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,67,Melissa Murphree,925-963-8027,,37.72981,-122.47384
+AT&T,CCL00006,Bernal Heights,3637,069,NCT,40-X/65-B,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,120,Melissa Murphree,925-963-8027,,37.75522,-122.41836
+AT&T,CCL00049,Marina Safeway,0503,030,RC-3,65-A/40-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,127,Melissa Murphree,925-963-8027,,37.80087,-122.42503
+AT&T,CCL00057,Daly City,6071,002,P,40-X,Public,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,51,Melissa Murphree,925-963-8027,,37.71896,-122.42530
+AT&T,CCL00058,Alemany,5054,A009,NCS,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,37,Melissa Murphree,925-963-8027,CCL04382 is a proposed replacement for CCL00058,37.71467,-122.39853
+AT&T,CCL00059,Sunset,2194,001,P,40-X,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,70,Melissa Murphree,925-963-8027,,37.74759,-122.48103
+AT&T,CCL00077,Japan Town,0701,001,NC-3,50-A/65-A,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,65,Melissa Murphree,925-963-8027,,37.78501,-122.43281
+AT&T,CCL00078,Nob Hill,0691,005,RC-4,130-V,Commercial,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,67,Melissa Murphree,925-963-8027,CCL02662 is a proposed replacement for CCL00778,37.78717,-122.42075
+AT&T,CCL00096,SF Civic Ctr,0345,007,C-3-G,80-X,Residential,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,68,Melissa Murphree,925-963-8027,,37.78198,-122.41498
+AT&T,CCL00099,Hwy 101 & Silver,5431A,012,M1,65-J,Commercial,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,72,Melissa Murphree,925-963-8027,,37.72588,-122.40120
+AT&T,CCL00100,SF_MTSO,3732,110,MUR,85-X/45-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,62,Melissa Murphree,925-963-8027,,37.78025,-122.40589
+AT&T,CCL00103,Balboa Bart,6949,011,P,160-E,Public,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,48,Melissa Murphree,925-963-8027,CCL06173 is a proposed replacement for CCL00103,37.72078,-122.44748
+AT&T,CCL00118,Chinatown,0273,008,RC-4,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,54,Melissa Murphree,925-963-8027,,37.79013,-122.41013
+AT&T,CCL00127,Montgomery & 280,5869,013,NCD-Excelsior,40-X,Commercial,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,30,Melissa Murphree,925-963-8027,,37.73047,-122.42894
+AT&T,CCL00139,101-280,5280,001,P,65-J,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,56,Melissa Murphree,925-963-8027,,37.74024,-122.39340
+AT&T,CCL00163,Market & 3rd,0266,006,C-3-O,450-S,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300,39000",16650,166,Melissa Murphree,925-963-8027,,37.79162,-122.39945
+AT&T,CCL00181,SF Zoo/Lake Merced,7281,005,P,OS,Public,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,43,Melissa Murphree,925-963-8027,,37.72786,-122.50346
+AT&T,CCL00199,Fisherman's  Wharf,0056,007-008,C-2,65-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,,37.80550,-122.40550
+AT&T,CCL00418,San Francisco III,0309,011,C-3-R,80-130-F,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,91,Melissa Murphree,925-963-8027,,37.78778,-122.40644
+AT&T,CCL00432,Laguna Honda,2842,007,P,40-X/OS/80-D,Public,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,69,Melissa Murphree,925-963-8027,,37.74774,-122.45619
+AT&T,CCL00447,Army & 101,4280,025,P,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.75094,-122.40267
+AT&T,CCL00452,Kezar Stadium,1206,003,RM-1,80-E,Senior Housing,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,90,Melissa Murphree,925-963-8027,,37.77412,-122.44132
+AT&T,CCL00461,Richmond District,1518,033,NC-3,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,63,Melissa Murphree,925-963-8027,,37.77975,-122.48627
+AT&T,CCL00463,Financial District,0116,020B,NCD-NORTH BEACH,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,83,Melissa Murphree,925-963-8027,,37.80000,-122.40867
+AT&T,CCL00464,Ferry Building,3769,002A,RH DTR/M-1,84-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,97,Melissa Murphree,925-963-8027,,37.78901,-122.38868
+AT&T,CCL00477,Innerside,1763,022,NCD-INNER SUNSET,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,85,Melissa Murphree,925-963-8027,,37.76239,-122.46586
+AT&T,CCL00497,6th & Townsend,3783,008,UMU,68-X,Industrial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,62,Melissa Murphree,925-963-8027,,37.77233,-122.40254
+AT&T,CCL00523,SF VA Hospital,1313,023,P,40-X,Public,,"voice, video & data",wireless phones & modems,10,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,68,Melissa Murphree,925-963-8027,,37.78167,-122.50461
+AT&T,CCL00538,Bayshore & 280,5851,024,P,40-X,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,73,Melissa Murphree,925-963-8027,,37.73532,-122.40764
+AT&T,CCL00567,Bay Bridge West,3741,032,C-3-O(SD),200-S,Commercial,,"voice, video & data",wireless phones & modems,13,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,256,Melissa Murphree,925-963-8027,,37.79131,-122.39198
+AT&T,CCL00575,St. Ignatius,2094,006,RH-1,40-X,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.74804,-122.49594
+AT&T,CCL00703,South Pak,3788,041,SLI,65-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,77,Melissa Murphree,925-963-8027,,37.77968,-122.39281
+AT&T,CCL00708,Mission District,3962,010,UMU,58-X,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,61,Melissa Murphree,925-963-8027,CCL03306 is a proposed replacement for CCL00708,37.76467,-122.40817
+AT&T,CCL00709,Mission Dolores,3542,017,NCT-Upper Mkt,40-X/50-X,Public,,"voice, video & data",wireless phones & modems,5,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,65,Melissa Murphree,925-963-8027,,37.76661,-122.43041
+AT&T,CCL00710,Upper North Beach,0028,016,C-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,48,Melissa Murphree,925-963-8027,,37.80584,-122.41780
+AT&T,CCL00725,Ingleside,3198,016,NCT-Ocean,45-X,Residential,,"voice, video & data",wireless phones & modems,7,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,46,Melissa Murphree,925-963-8027,,37.72435,-122.45714
+AT&T,CCL00741,Union/Cow Hollow,0541,024,NCD,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,57,Melissa Murphree,925-963-8027,,37.79706,-122.43240
+AT&T,CCL00866,Lowe Telegraph Hill,0164,012,C-2,65-A,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,82,Melissa Murphree,925-963-8027,,37.79778,-122.40361
+AT&T,CCL00871,North Sunset,1865,004,RH-2,40-X,Residential,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,48,Melissa Murphree,925-963-8027,,37.75929,-122.47752
+AT&T,CCL01036,Hunter's Pt,4591A,007,M-2/HP-RA,40-X,Industrial,,"voice, video & data",wireless phones & modems,12,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,57,Melissa Murphree,925-963-8027,,37.72696,-122.37774
+AT&T,CCL01046,Excelsior,6409,028,NCD-Excelsior,65-A,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.71581,-122.43972
+AT&T,CCL01231,Waller & Octavia,3503,003,NCT-3,85-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Interior,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,54,Melissa Murphree,925-963-8027,,37.77177,-122.42301
+AT&T,CCL01253,Castle & Union,0108,007,C-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,,37.80184,-122.40088
+AT&T,CCL01255,California & Powell,0243,017,RM-4,65-A,Fraternal Organization,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,61,Melissa Murphree,925-963-8027,,37.79233,-122.40901
+AT&T,CCL01256,Wisconsin & 19th St,4007,002,PDR-1-G,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,63,Melissa Murphree,925-963-8027,,37.76265,-122.40091
+AT&T,CCL01748,Francisco St. - Powell St.,0015,001,C-2,40-X,Public,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,44,Melissa Murphree,925-963-8027,,37.80836,-122.41211
+AT&T,CCL01751,Clay & Jones,0253,020,RM-4,65-A,Public,,"voice, video & data",wireless phones & modems,2,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,83,Melissa Murphree,925-963-8027,,37.79142,-122.41283
+AT&T,CCL01753,Leidesdorff & California,0240,001,C-3-O,250-S,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,48,Melissa Murphree,925-963-8027,,37.79366,-122.40310
+AT&T,CCL01755,Hwy 280 & Division,3910,001,PDR-1-D,45-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,60,Melissa Murphree,925-963-8027,,37.76962,-122.40443
+AT&T,CCL01757,Fillmore & Broadway,0636,022,NCD-Fillmore,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,32,Melissa Murphree,925-963-8027,CCL05455 is a proposed replacement for CCL01757,37.78944,-122.43372
+AT&T,CCL01760,15th & Florida,3928,013,PDR-1-G,68-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,51,Melissa Murphree,925-963-8027,,37.76626,-122.41138
+AT&T,CCL01762,Child & Lombard,0089,001,NCD-NORTH BEACH,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,25,Melissa Murphree,925-963-8027,,37.80221,-122.40966
+AT&T,CCL01770,California & Davis,0234,017,C-3-O,200-S,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,44,Melissa Murphree,925-963-8027,,37.79389,-122.39583
+AT&T,CCL01771,Hwy 101 & Bayshore,5286A,003,PDR-2,65-J,Industrial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.74402,-122.40246
+AT&T,CCL01848,Pacific Av And Jones St,0183,001,NCD-PACIFIC,40-X,N/A,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,25,Melissa Murphree,925-963-8027,,37.79572,-122.41517
+AT&T,CCL01852,Hyde - Bay St,0452,008,C-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,,37.80561,-122.42224
+AT&T,CCL02102,Claremont & Portola,2989B,032,NCD-West Portal,26-X,N/A,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,31,Melissa Murphree,925-963-8027,,37.73947,-122.46704
+AT&T,CCL02159,Bill Graham Presents,0812,001,P,80-X,Mixed Use,,"voice, video & data",wireless phones & modems,15,Rooftop,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,84.5,Melissa Murphree,925-963-8027,,37.77782,-122.41679
+AT&T,CCL02264,Geary & Powell,0296,006,C-3-R,80-130F,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.78841,-122.40861
+AT&T,CCL02271,3rd & Folsom,3750,087-088,C-3-S,200-S,Commercial,,"voice, video & data",wireless phones & modems,16,Interior,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,,37.78495,-122.39651
+AT&T,CCL02357,Market & 7th,0350,004,C-3-G,120-X,Commercial,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,60,Melissa Murphree,925-963-8027,,37.78145,-122.41178
+AT&T,CCL02362,Spear St & Mission St,3748,031,RH-DTR,85-400-R,Fraternal Organization,,"voice, video & data",wireless phones & modems,9,Lower Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,59,Melissa Murphree,925-963-8027,,37.78648,-122.39303
+AT&T,CCL02423,Page St/Shrader St,1248,001,NCD-Haight,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.76931,-122.45096
+AT&T,CCL02425,Taylor & Sutter,0283,009,C-3-G,160-F,Mixed Use,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,92,Melissa Murphree,925-963-8027,,37.78903,-122.41178
+AT&T,CCL02426,Spear & Howard,3715,003,C-2/C-3-O,84-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,95,Melissa Murphree,925-963-8027,,37.79305,-122.39255
+AT&T,CCL02427,Market & Sutter,0291,005,C-3-O,300-S,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300,39000",16650,119,Melissa Murphree,925-963-8027,,37.78987,-122.40120
+AT&T,CCL02429,Brentwood/Yerba Buena,3553,014,PDR-1-G,68-X,Residential,,"voice, video & data",wireless phones & modems,24,Rooftop,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,77.9,Melissa Murphree,925-963-8027,,37.76535,-122.41827
+AT&T,CCL02735,Blue Poly-Lower Pacific -DAS Node,N/A,N/A,RH-2,40-x,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.78661,-122.46369
+AT&T,CCL02738,Blue Poly-Lower Pacific -DAS Node,N/A,N/A,RH-2,40-x,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.79131,-122.44292
+AT&T,CCL02739,Blue Poly-Lower Pacific -DAS Node,N/A,N/A,RH-2,40-x,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.79006,-122.44099
+AT&T,CCL02741/Nob01A,Blue Poly-Nob Hill - DAS Node,N/A,N/A,RH-1,40-X,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.80303,-122.41808
+AT&T,CCL02741/Nob02A,Blue Poly-Nob Hill - DAS Node,N/A,N/A,RH-3,40-X,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.80106,-122.42106
+AT&T,CCL02741/Nob03B,Blue Poly-Nob Hill - DAS Node,N/A,N/A,RM-2,40-X,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.79992,-122.41422
+AT&T,CCL02742/Nob05A,Blue Poly-Nob Hill - DAS Node,N/A,N/A,RM-3,65-A,JPA,,"voice, video & data",wireless phones & modems,1,oDAS,"UMTS, LTE","700, 850, 1900,1700,2300",713,37,Melissa Murphree,925-963-8027,,37.79514,-122.41661
+AT&T,CCL03008,Broadway_&_Sansome,0143,002,C-2,84-E,N/A,,"voice, video & data",wireless phones & modems,2,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",7182,56,Melissa Murphree,925-963-8027,CCL02320 is a proposed replacement for CCL03008,37.79872,-122.40245
+AT&T,CCL03010,Leavenworth & Washington,0187,007,RM-3,65-A,Residential,,"voice, video & data",wireless phones & modems,2,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",7182,26,Melissa Murphree,925-963-8027,,37.79404,-122.41656
+AT&T,CCL03021,2nd_&_Harrison,3763,001,SSO-Soma,40-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,67,Melissa Murphree,925-963-8027,CCL03235 is a proposed replacement for CCL03021,37.78411,-122.39517
+AT&T,CCL03034,Marina_Safeway,0446,002,NC-S,40-X,Commercial,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,21,Melissa Murphree,925-963-8027,,37.80449,-122.43238
+AT&T,CCL03043,Fulton_&_Stanyon,1191,023,RH-3,80-D,Residential,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,28,Melissa Murphree,925-963-8027,CCL02351 is a proposed replacement for CCL03043,37.77469,-122.45453
+AT&T,CCL03055,Union_&_Octavia,0530,039-043,NCD-UNION,40-X,N/A,,"voice, video & data",wireless phones & modems,4,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",7182,29,Melissa Murphree,925-963-8027,,37.79812,-122.42917
+AT&T,CCL03062,Franklin_&_Pine,0665,007,NC-3,130-E,N/A,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,27,Melissa Murphree,925-963-8027,,37.78836,-122.42374
+AT&T,CCL03066,Pine_&_Jones,0252,004,RM-4,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,31,Melissa Murphree,925-963-8027,,37.79052,-122.41408
+AT&T,CCL03068,Clay_&_Taylor,0214,006,RM-3,65-A,N/A,,"voice, video & data",wireless phones & modems,1,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,31,Melissa Murphree,925-963-8027,,37.79364,-122.41319
+AT&T,CCL03069,Sacramento - Stockton,0225,017,CRNC,65-85-N,Mixed Use,,"voice, video & data",wireless phones & modems,1,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,,37.79386,-122.40759
+AT&T,CCL03070,Pine_&_Grant,0258,012,CCB,50-N,N/A,,"voice, video & data",wireless phones & modems,4,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,22,Melissa Murphree,925-963-8027,,37.79165,-122.40570
+AT&T,CCL03105,I-80_&_7Th,3758,047,SALI,30-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,39,Melissa Murphree,925-963-8027,,37.77439,-122.40721
+AT&T,CCL03113,3rd_&_Gillman,5461,053,NC-3,40-X,N/A,,"voice, video & data",wireless phones & modems,2,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",7182,23,Melissa Murphree,925-963-8027,,37.72235,-122.39589
+AT&T,CCL03203,CCL03203C,6595,003,RH-2,40-X,Public,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,72,Melissa Murphree,925-963-8027,CCL03217 is a proposed permanent replacement for CCL03203. CCL03203 is a completed temporary replacement for CCL00724.,37.74659,-122.42138
+AT&T,CCL03241,China Basin,8710,006,MB-RA,MB-RA,Vacant Lot,,"voice, video & data",wireless phones & modems,6,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,59,Melissa Murphree,925-963-8027,CCL05681 is a proposed replacement for CCL03241,37.77064,-122.39522
+AT&T,CCL03243,California & Davis,0237,006,C-3-0,75-x,Commercial,,"voice, video & data",wireless phones & modems,11,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,85,Melissa Murphree,925-963-8027,,37.79358,-122.39902
+AT&T,CCL03328,7th St. & Minna St.,3727,001,WMUG,65-X,Commercial,,"voice, video & data",wireless phones & modems,16,basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,65,Melissa Murphree,925-963-8027,,37.77891,-122.41097
+AT&T,CCL03332,Korean Evangelical Church,3152,037,RH-1,40-X,Church,,"voice, video & data",wireless phones & modems,14,Rooftop,"UMTS, LTE","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.72697,-122.44114
+AT&T,CCL04032,California & 5th,1364,019,NC-1,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,38,Melissa Murphree,925-963-8027,,37.78532,-122.46297
+AT&T,CCL04063,Geary St.,0316,001-001A,C-3-G,80-130-F,Commercial,,"voice, video & data",wireless phones & modems,7,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,95,Melissa Murphree,925-963-8027,,37.78680,-122.40995
+AT&T,CCL04075,Potrero Hill,4173,001,PDR-1-G,68-X,Industrial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,68,Melissa Murphree,925-963-8027,,37.75709,-122.38765
+AT&T,CCL04076,4th & Mission,3724,067,P,90-X/340-I,Parking Garage,,"voice, video & data",wireless phones & modems,4,6th fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,58,Melissa Murphree,925-963-8027,,37.78424,-122.40419
+AT&T,CCL04095,Portola Dr,2892,004,RH-1,40-X,Church,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,54,Melissa Murphree,925-963-8027,,37.74497,-122.45318
+AT&T,CCL04942,Hyde / Francisco,0090,030,NCD-North Beach,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.80196,-122.41168
+AT&T,CCL04944,Chestnut & Scott,0929,009,NC-2,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,51,Melissa Murphree,925-963-8027,,37.80037,-122.44150
+AT&T,CCL04946,Broadway & Gough,0577,001,RM-3,80-A,Residential,,"voice, video & data",wireless phones & modems,4,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,101,Melissa Murphree,925-963-8027,,37.79516,-122.42686
+AT&T,CCL04948,On Lok Day Services,6657,063,RH-2,40-X,Convalescent home,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,49,Melissa Murphree,925-963-8027,,37.74206,-122.42508
+AT&T,CCL05158,Spur Urban Center,3722,069,C-3-0(SD),350-S,Commercial,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,65,Melissa Murphree,925-963-8027,,37.78696,-122.40082
+AT&T,CCL05200,Taylor Jefferson,0012,001,C-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,7,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.80806,-122.41601
+AT&T,CCL05209,Union St. & Franklin St.,0549,015,Polk St NCD,65-A,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,65,Melissa Murphree,925-963-8027,,37.79758,-122.42196
+AT&T,CCL05210,Joe's Ice Cream,1527,036,NC-3,40-X,Commercial,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,35,Melissa Murphree,925-963-8027,,37.78028,-122.47711
+AT&T,CCL05211,30th Ave. & Pacheco St.,2069,010,NC-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,11,Interior,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,36,Melissa Murphree,925-963-8027,,37.75333,-122.49118
+AT&T,CCL05214,Waller Clayton,1232,004,NCD,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,54,Melissa Murphree,925-963-8027,,37.77041,-122.44564
+AT&T,CCL05218,999 Laguna Street,0771,001,RM-2,50-X,Residential,,"voice, video & data",wireless phones & modems,24,Rooftop,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,47.67,Melissa Murphree,925-963-8027,,37.77713,-122.42713
+AT&T,CCL05219,Turk St. & Polk St.,0766,013,RC-4,130-V,Commercial,,"voice, video & data",wireless phones & modems,8,Basement.,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,54,Melissa Murphree,925-963-8027,,37.78090,-122.42019
+AT&T,CCL05220,Ellis St. & Jones St.,0332,012,RC-4,80-T,Mixed Use,,"voice, video & data",wireless phones & modems,9,Basement.,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,,37.78472,-122.41256
+AT&T,CCL05222,Mission St. & Lowell St.,7098,012,NCD,40-X,Motel,,"voice, video & data",wireless phones & modems,9,2nd fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,46,Melissa Murphree,925-963-8027,,37.71103,-122.44755
+AT&T,CCL05228,Evans Avenue,5237,036,PDR-2,40-X,Industrial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,34,Melissa Murphree,925-963-8027,,37.73929,-122.38274
+AT&T,CCL05229,Golden Gate Ave and Masonic Ave,1107,006,RH-2,40-X,Institutional (USF),,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,60,Melissa Murphree,925-963-8027,,37.77867,-122.44847
+AT&T,CCL05232,1777 Yosemite,5418,013,PDR-2,65-J,Industrial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,79,Melissa Murphree,925-963-8027,,37.72835,-122.39521
+AT&T,CCL05236,World Impact,7147,032,NC1,40-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.71135,-122.45627
+AT&T,CCL05238,Bryant St. & 4th St.,3776,041,SLI,65-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,72,Melissa Murphree,925-963-8027,,37.78017,-122.39704
+AT&T,CCL05240,Bryant St. & 3rd St.,3774,073,MUO,65-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,87,Melissa Murphree,925-963-8027,,37.78255,-122.39175
+AT&T,CCL05257,Visitacion Ave. & Raymond Ave.,6251,016,NC-2,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Garage,"UMTS, LTE","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.71239,-122.40734
+AT&T,CCL05261,McAllister St. & Broderick St.,1181,019,NC-2,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,9,Interior,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,56,Melissa Murphree,925-963-8027,,37.77678,-122.43801
+AT&T,CCL05262,Haight St. & Steiner St.,0861,001,NC-2,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,81,Melissa Murphree,925-963-8027,,37.77170,-122.43223
+AT&T,CCL05263,Lincoln Way & 16th Ave.,1771,041,NCD -Inner Sunset,40-X,"Institutional, School",,"voice, video & data",wireless phones & modems,6,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,37,Melissa Murphree,925-963-8027,,37.76356,-122.47476
+AT&T,CCL05264,Brannan St. & 8th St.,3526,019B,PDR-1-G,40-X,Industrial,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,40,Melissa Murphree,925-963-8027,,37.77053,-122.40908
+AT&T,CCL05265,North Beach,0130,043,NCD-NORTH BEACH,40-X,Public,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,CCL05798 is a proposed replacement for CCL05265,37.79856,-122.41006
+AT&T,CCL05267,Pine St,0262,020,C-3-O,400-S,Commercial,,"voice, video & data",wireless phones & modems,4,Interior,"UMTS, LTE","700, 850, 1900,1700,2300",16650,99,Melissa Murphree,925-963-8027,,37.79257,-122.39888
+AT&T,CCL05271,Taylor St - Greenwich St,0065,048,NCD-NORTH BEACH,40-X,Commercial,,"voice, video & data",wireless phones & modems,3,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,57,Melissa Murphree,925-963-8027,,37.80344,-122.41417
+AT&T,CCL05273,Filbert -Larkin,0525,016,NCD-POLK,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",7182,44,Melissa Murphree,925-963-8027,,37.79942,-122.42228
+AT&T,CCL05291,Vicente/46th,2512,005,NC-2,100-A,Mixed Use,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,34,Melissa Murphree,925-963-8027,,37.73562,-122.50175
+AT&T,CCL05295,I-280-18th,3998,021,UMU,58-X,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,64,Melissa Murphree,925-963-8027,,37.76375,-122.39222
+AT&T,CCL05351,Parkside 2,2358,012,NCD-Taraval,50-X,N/A,,"voice, video & data",wireless phones & modems,2,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,42,Melissa Murphree,925-963-8027,,37.74261,-122.48656
+AT&T,CCL05448,Candlestick Park,4934,003,M-1,CP,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,34,Melissa Murphree,925-963-8027,,37.71644,-122.38278
+AT&T,CCL05460,Fillmore & Golden Gate,0755,002,NC-3,50-X,Mixed Use,,"voice, video & data",wireless phones & modems,3,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,56,Melissa Murphree,925-963-8027,,37.77970,-122.43200
+AT&T,CCL05461,Carmel -Shrader,3583,079,NCD-CASTRO,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,24,Melissa Murphree,925-963-8027,,37.76086,-122.43383
+AT&T,CCL05463,Green St - Hyde St,0124,001,NC-1,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,39,Melissa Murphree,925-963-8027,,37.79840,-122.41882
+AT&T,CCL05479,Treat-20th,3591,001,PDR-1-G,58-X,Industrial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,35,Melissa Murphree,925-963-8027,,37.76086,-122.41539
+AT&T,CCL05489,Irving St & 25th Ave,1780,044,NCD-Irving,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,84,Melissa Murphree,925-963-8027,,37.76298,-122.48442
+AT&T,CCL05500,Pac Bell Park,3803,005,MUO,90-X,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,80,Melissa Murphree,925-963-8027,,37.77661,-122.39133
+AT&T,CCL05509,Embarcadero & Brannan,3791,001,SB-DTR,45-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,52,Melissa Murphree,925-963-8027,,37.78444,-122.38844
+AT&T,CCL05513,Gough & Sacramento,0640,019,RM-3,40-X,Residential,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,60,Melissa Murphree,925-963-8027,,37.79073,-122.42596
+AT&T,CCL05514,Montgomery & Sutter,0293,001,C-3-0,80-130-F,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300,39000",16650,138,Melissa Murphree,925-963-8027,,37.78956,-122.40407
+AT&T,CCL05517,11th & Folsom,3516,019,WMUG-Wsoma,55/65-X,Parking Garage,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,53,Melissa Murphree,925-963-8027,,37.77137,-122.41564
+AT&T,CCL05520,9th & Howard,3518,004,RCD,55-X,Commercial,,"voice, video & data",wireless phones & modems,9,First fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,46,Melissa Murphree,925-963-8027,,37.77440,-122.41267
+AT&T,CCL05521,6th & Bryant,3759,011,SALI,30-X,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.77600,-122.40286
+AT&T,CCL05524,4th & Brannan,3786,136,MUO,85-X,Commercial,,"voice, video & data",wireless phones & modems,10,First fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,26,Melissa Murphree,925-963-8027,,37.77710,-122.39525
+AT&T,CCL05525,3rd & Howard,3723,115,C-3-S,340-I,Commercial,,"voice, video & data",wireless phones & modems,14,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.78580,-122.40198
+AT&T,CCL05526,Lombard St & Richardson Ave,0934,007,NC-3,40-X,Neighborhood Commerical Moderate Scale,,"voice, video & data",wireless phones & modems,8,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,31,Melissa Murphree,925-963-8027,,37.79888,-122.44546
+AT&T,CCL05531,Balboa & 14th,1630,001,RM-1,40-X,Public,,"voice, video & data",wireless phones & modems,4,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,27,Melissa Murphree,925-963-8027,,37.77668,-122.47287
+AT&T,CCL05532,7th & Geary,1441,035,NC-3,40-X,AT&T building,,"voice, video & data",wireless phones & modems,12,2nd fl balcony -lower roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.78129,-122.46790
+AT&T,CCL05534,Geary and Divisidero,1098,050,NC-3,105-E,Commercial,,"voice, video & data",wireless phones & modems,16,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,80,Melissa Murphree,925-963-8027,,37.78460,-122.44004
+AT&T,CCL05537,Lombard St. Garage,0509,009,P,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,58,Melissa Murphree,925-963-8027,,37.79976,-122.43552
+AT&T,CCL05541,Laguna & Post,0700,017-018,NC-3,50-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,55,Melissa Murphree,925-963-8027,,37.78535,-122.42831
+AT&T,CCL05542,California & Polk,0646,001,NCD -POLK ST,80-A,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,30,Melissa Murphree,925-963-8027,CCL02106 is a proposed temporary replacement for CCL05542. CCL02219 is a proposed permanent replacement for CCL05542,37.79044,-122.42049
+AT&T,CCL05543,Polk & Ellis,0740,018,NC-3,130-E,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,73,Melissa Murphree,925-963-8027,,37.78390,-122.41886
+AT&T,CCL05544,Sutter & Hyde,0279,001,RC-4,80-A,Mixed Use,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,58,Melissa Murphree,925-963-8027,,37.78890,-122.41718
+AT&T,CCL05545,California & Hyde,0249,007,NCD-Polk,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,9,basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,69,Melissa Murphree,925-963-8027,,37.79116,-122.41771
+AT&T,CCL05546,Geary & Leavenworth,0319,001,RC-4,80-T,Mixed Use,,"voice, video & data",wireless phones & modems,7,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,59,Melissa Murphree,925-963-8027,,37.78634,-122.41498
+AT&T,CCL05551,Jackson & Front,0173,007,C-2,84-E,Commercial,,"voice, video & data",wireless phones & modems,7,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,70,Melissa Murphree,925-963-8027,,37.79695,-122.40024
+AT&T,CCL05554,3rd & Arthur,5211,028-054,PDR-2,65-J,Commercial,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.74596,-122.38742
+AT&T,CCL05557,Noreiga & 19th,2030,010,NCD-Noriega,40-X,Church,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,30,Melissa Murphree,925-963-8027,,37.75443,-122.47667
+AT&T,CCL05558,19th & Vicente,2406,001,NCD-Taraval,65-A,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,48,Melissa Murphree,925-963-8027,,37.74290,-122.47408
+AT&T,CCL05559,Castro & Market,3562,015,NCT,65-B,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,37,Melissa Murphree,925-963-8027,,37.76303,-122.43501
+AT&T,CCL05566,Market & New Montgomery,0291,007,C-3-O,350-S,Commercial/Hotel,,"voice, video & data",wireless phones & modems,8,Basement & Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,153,Melissa Murphree,925-963-8027,,37.78819,-122.40186
+AT&T,CCL05567,Golden Gate University,3708,098,C-3-O(SD),700-S-2,University,,"voice, video & data",wireless phones & modems,24,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,49,Melissa Murphree,925-963-8027,,37.78915,-122.39895
+AT&T,CCL05568,Cole Valley,1272,001,NC-1,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,,37.76565,-122.45018
+AT&T,CCL05569,3rd & Gilman,4828,041-047,PDR-2,40-X,Industrial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,28,Melissa Murphree,925-963-8027,,37.72556,-122.38718
+AT&T,CCL05570,Cotton Basics,6507,017,NCD-24TH,40-X,N/A,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",7182,45.3,Melissa Murphree,925-963-8027,,37.75120,-122.43379
+AT&T,CCL05581,Fulton & Franklin,0792,031,NCT-3,65-X,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,,37.77852,-122.42191
+AT&T,CCL05586,7th & Folsom,3754,040,NCT-SOMA,65-X,Insitutional,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,47,Melissa Murphree,925-963-8027,,37.77706,-122.40707
+AT&T,CCL05587,9th & Mission,3701,053,C-3-G,150-S/180-S,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,28,Melissa Murphree,925-963-8027,,37.77736,-122.41372
+AT&T,CCL05622,West Nob Hill,0595,005,RC-4,80-D,Commercial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,108,Melissa Murphree,925-963-8027,,37.79408,-122.42286
+AT&T,CCL05624,Laurel Heights,1071,004,NC-3,80-D,Commercial,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,99,Melissa Murphree,925-963-8027,,37.78306,-122.44781
+AT&T,CCL05625,19th & Brotherhood Way,7080,024,RH-1/NC-1,26-X/40-X,Public,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,52,Melissa Murphree,925-963-8027,,37.71753,-122.47192
+AT&T,CCL05627,Mission Terrace,3206,003,NCD-Excelsior,65-A,Commercial,,"voice, video & data",wireless phones & modems,8,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,88,Melissa Murphree,925-963-8027,,37.72472,-122.43555
+AT&T,CCL05628,Golden Gate Park,1608,018,NC-2,40-X,Public,,"voice, video & data",wireless phones & modems,2,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",7182,39,Melissa Murphree,925-963-8027,,37.77562,-122.49677
+AT&T,CCL05631,Bernal Heights Blvd - Folsom,5663,017,NC-2,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,30,Melissa Murphree,925-963-8027,,37.73906,-122.41536
+AT&T,CCL05633,Larkin & Grove,0347,007,RC-4,80-T,Commercial,,"voice, video & data",wireless phones & modems,3,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,66,Melissa Murphree,925-963-8027,,37.78056,-122.41667
+AT&T,CCL05634,6th St and Jessie St,3704,025,NCT-SOMA,85-X,Commercial,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,30,Melissa Murphree,925-963-8027,,37.78108,-122.40868
+AT&T,CCL05655,Larkin St - Clay St,0276,017,RC-4,65-A,Mixed Use,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,40,Melissa Murphree,925-963-8027,,37.78942,-122.41530
+AT&T,CCL05677,San Francisco,2522,010,RH-1,40-X,Church,,"voice, video & data",wireless phones & modems,7,Ground Fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.73425,-122.49187
+AT&T,CCL05693,Pacific Avenue,0564,"001-111,019,025",RM-1/RH-2,40-X,Residential,,"voice, video & data",wireless phones & modems,5,Equip Rm,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,114,Melissa Murphree,925-963-8027,,37.79453,-122.43478
+AT&T,CCL05696,Fell Street,0819,034-035,NCT-HaYes,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,6,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,52,Melissa Murphree,925-963-8027,,37.77581,-122.42631
+AT&T,CCL05710,4th & Howard,3751,105/112,MUR,85-X,Commercial,,"voice, video & data",wireless phones & modems,16,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,93,Melissa Murphree,925-963-8027,,37.78206,-122.40062
+AT&T,CCL05711,182 2nd Street,3736,098,C-3-O(SD),350-S,Industrial,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,,37.78695,-122.39775
+AT&T,CCL05712,Market & Delores,3534,058,NCT-3,85-X/40-X,Commercial,,"voice, video & data",wireless phones & modems,7,First fl,"UMTS, LTE","700, 850, 1900,1700,2300",16650,52,Melissa Murphree,925-963-8027,,37.76932,-122.42595
+AT&T,CCL05719,Calhoun Terrace,0107,007,C-2,84-E,Commercial,,"voice, video & data",wireless phones & modems,9,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,97,Melissa Murphree,925-963-8027,,37.80166,-122.40205
+AT&T,CCL05722,Bi-Rite Creamery,3578,027,NC-1,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,4,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,42,Melissa Murphree,925-963-8027,,37.76156,-122.42579
+AT&T,CCL05725,Drumm St & Hinkle,0204,023,C-3-0,300-S,Commercial,,"voice, video & data",wireless phones & modems,6,Lower Garage,"UMTS, LTE","700, 850, 1900,1700,2300",16650,50,Melissa Murphree,925-963-8027,CCL05799 is a proposed replacement for CCL05725,37.79571,-122.39842
+AT&T,CCL05726,Kearny St & Battery,0192,041,CRNC,110-G,Hospital,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,78,Melissa Murphree,925-963-8027,,37.79543,-122.40913
+AT&T,CCL05728,Sutter & Powell,0285,005,C-3-R,80-130-F,Commercial,,"voice, video & data",wireless phones & modems,7,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,61,Melissa Murphree,925-963-8027,,37.78962,-122.40724
+AT&T,CCL05743,Chestnue & Fillmore,0540,018,NCD-UNION,40-X,N/A,,"voice, video & data",wireless phones & modems,2,Basement,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",7182,25,Melissa Murphree,925-963-8027,,37.79698,-122.43526
+AT&T,CCL05793,Nordstrom Rack,3704,001,C-3-R,120-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,110,Melissa Murphree,925-963-8027,,37.78356,-122.40821
+AT&T,CCL05844,Cyril Magnin St. & Ellis St.,0327,012,C-3-R,80-130-F,Commercial/Hotel,,"voice, video & data",wireless phones & modems,9,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,100,Melissa Murphree,925-963-8027,,37.78570,-122.40800
+AT&T,CCL05867,4th Ave & Cabrillo,1639,047,NC-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE","700, 850, 1900,1700,2300",16650,40,Melissa Murphree,925-963-8027,,37.77707,-122.46350
+AT&T,CCL05868,19th Ave. & Quintara St.,2198,033,RH-2,40-X,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,36,Melissa Murphree,925-963-8027,,37.74793,-122.47631
+AT&T,CCL05878,Walgreens,0305,006,RC-4,80-T-130-T,Mixed Use,,"voice, video & data",wireless phones & modems,16,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,87,Melissa Murphree,925-963-8027,,37.78728,-122.41187
+AT&T,CCL05886,Chestnut & Gough,0496,013,NC-3,40-X,Commercial,,"voice, video & data",wireless phones & modems,12,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,56,Melissa Murphree,925-963-8027,,37.80096,-122.42936
+AT&T,CCL05887,Turk_&_Scott,0753,012,RH-3,40-X,Mixed Use,,"voice, video & data",wireless phones & modems,12,Ground Fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,80,Melissa Murphree,925-963-8027,,37.77983,-122.43832
+AT&T,CCL05889,16th_&_3rd,3994,009,UMU,68-X,N/A,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,30,Melissa Murphree,925-963-8027,,37.76411,-122.38851
+AT&T,CCL05894,Franklin & OFarrell,0714,017,NC-3,130-E,Commercial,,"voice, video & data",wireless phones & modems,9,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,62,Melissa Murphree,925-963-8027,,37.78528,-122.42269
+AT&T,CCL05895,5th & Mission,3724,067,P,160-F/340-I/90-X,Public,,"voice, video & data",wireless phones & modems,8,6th fl,"UMTS, LTE, 5G","700, 850, 1900,1700,2300",16650,29,Melissa Murphree,925-963-8027,,37.78278,-122.40616
+AT&T,CCL06470,Folsom-Tishman,3746,007,RC-4,400-W,Residential,,"voice, video & data",wireless phones & modems,6,Basement,"UMTS, LTE","700, 850, 1900,1700,2300",16650,99,Melissa Murphree,925-963-8027,CCL04727 is a proposed permanent replacement for CCL06470.  CCL06470 is a completed temporary replacement for CCL05881.,37.78899,-122.39189
+AT&T,CCL06850F,California & Kearny,0270,037,C-3-R,80-130-F,Commercial,,"voice, video & data",wireless phones & modems,11,Roof,"UMTS, LTE, 5G","700, 850, 1900,1700,2300,39000",16650,129,Melissa Murphree,925-963-8027,,37.79086,-122.40485
+AT&T,CCL06600F_R01,CRAN_555 Pine_1_01,0229,003,C-3-O,75-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79411,-122.40128
+AT&T,CCL06600F_R02,CRAN_555 Pine_2_29,0228,039,C-3-O,250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79471,-122.40156
+AT&T,CCL06601F_R01,CRAN_555 Pine_1_02,0259,028,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79264,-122.40384
+AT&T,CCL06602F_R01,CRAN_555 Pine_1_04,0238,008,C-3-O,350-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79324,-122.40053
+AT&T,CCL06602F_R02,CRAN_555 Pine_2_03,0237,015,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79377,-122.40001
+AT&T,CCL06604F_R01,CRAN_555 Pine_1_06,268,001,C-3-O,150-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79199,-122.40155
+AT&T,CCL06604F_R02,CRAN_555 Pine_1_08,0261,017,C-3-O,400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79224,-122.40041
+AT&T,CCL06605F_R02,CRAN_555 Pine_1_12,0288,032,C-3-O,250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79081,-122.40326
+AT&T,CCL06606F_R01,CRAN_555 Pine_1_09,0266,008,C-3-O,450-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79228,-122.39919
+AT&T,CCL06607F_R01,CRAN_611 Folsom_1_10,3708,056,C-3-O(SD),500-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79084,-122.39906
+AT&T,CCL06607F_R02,CRAN_611 Folsom_2_36,3710,020,C-3-O(SD),450-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79167,-122.39806
+AT&T,CCL06608F_R01,CRAN_555 Pine_00001_16,0292,001,C-3-O,250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78996,-122.40239
+AT&T,CCL06608F_R02,CRAN_555 Pine Street_1_18,0311,015,C-3-O,250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78889,-122.40210
+AT&T,CCL06609F_R03,MMWV_RSFR_SFDT0_003,0257,009,CCB,50-N,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79156,-122.40596
+AT&T,CCL06610F_R02,CRAN_RSFR_00001_20,0310,006,C3O,80-130,Kiosk,,"voice, video & data",wireless phones & modems,2,Central Office,LTE,"1900, 5000",109,16,Melissa Murphree,925-963-8027,,37.78800,-122.40371
+AT&T,CCL06612F_R01,CRAN_RSFR_00001_22,0295,016,P,OS,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78886,-122.40693
+AT&T,CCL06612F_R02,CRAN_RSFR_00001_24,0296,001,C-3-R,80-130,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78914,-122.40881
+AT&T,CCL06616F_R01,CRAN_RSFR_00001_17,0290,012,C-3-O,500-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.790354,-122.400502
+AT&T,CCL06617F_R01,CRAN_611 Folsom_1_31,3705,006,C-3-R,400-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78471,-122.40470
+AT&T,CCL06618F_R02,CRAN_611 Folsom_2_38,3709,019-020,C-3-O(SD),500-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79027,-122.39711
+AT&T,CCL06619F_R01,CRAN_611 Folsom_1_33,3708,175,C-3-O(SD),300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78948,-122.40008
+AT&T,CCL06619F_R02,CRAN_611 Folsom_1_42,3721,122,C-3-O(SD),550-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78898,-122.39838
+AT&T,CCL06620F_R01,CRAN_611 Folsom_00001_34,3721,001,C-3-O(SD),350-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78949,-122.39737
+AT&T,CCL06620F_R02,CRAN_611 Folsom_1_43,3721,122,C-3-O(SD),550-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78860,-122.39805
+AT&T,CCL06621F_R01,CRAN_611 Folsom_1_35,3723,115,C-3-S,340-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78541,-122.40295
+AT&T,CCL06621F_R02,CRAN_611 Folsom_1_39,3722,367,C-3-S,500-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78561,-122.40107
+AT&T,CCL06622F_R02,CRAN_611 Folsom_1_40,3707,058,C-3-O,120-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78679,-122.40256
+AT&T,CCL06623F_R02,CRAN_611 Folsom_1_46,3707,016,C-3-O (SD),150-S/300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78733,-122.40081
+AT&T,CCL06624F_R01,CRAN_611 Folsom_1_38,3708,096,C-3-O(SD),300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78859,-122.40042
+AT&T,CCL06625F_R01,CRAN_611 Folsom_1_44,3722,003,C-3-O(SD),150-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78742,-122.39921
+AT&T,CCL06626F_R01,CRAN_611 Folsom_1_47,3734,091,C-3-S,340-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78344,-122.40232
+AT&T,CCL06626F_R02,CRAN_611 Folsom_3_18,3723,113-117 (4 lots),C-3-S,340-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78369,-122.40317
+AT&T,CCL06627F_R01,CRAN_555 Pine Street_2_01,0136,001,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.80057,-122.40032
+AT&T,CCL06627F_R02,CRAN_555 Pine Street_2_05,0111,001,C-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.80145,-122.40052
+AT&T,CCL06628F_R01,CRAN_555 Pine_2_02,166,009-079,C-2,84-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79785,-122.39990
+AT&T,CCL06628F_R02,CRAN_555 Pine_2_27,166,007,C-2,84-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79812,-122.40089
+AT&T,CCL06629F_R02,CRAN_555 Pine_2_16,0201,012,RC-4,84-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79651,-122.39633
+AT&T,CCL06630F_R01,CRAN_611 Folsom_2_06,3717,019,C-3-O(SD),200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79157,-122.39295
+AT&T,CCL06630F_R02,CRAN_611 Folsom_2_34,3716,021,C-3-O(SD),84-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79229,-122.39366
+AT&T,CCL06631F_R01,CRAN_555 Pine_2_07,0140,005,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79889,-122.39951
+AT&T,CCL06631F_R02,CRAN_555 Pine_2_46,0140,001,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79935,-122.39888
+AT&T,CCL06632F_R01,CRAN_555 Pine_2_08,0200,014,RC-4,275-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79716,-122.39722
+AT&T,CCL06632F_R02,CRAN_555 Pine_2_11,0203,013,P,OS,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79626,-122.39740
+AT&T,CCL06633F_R01,CRAN_555 Pine_2_09,0200,014,RC-4,275-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79705,-122.39818
+AT&T,CCL06634F_R01,CRAN_611 Folsom_2_10,3712,025,C-3-O(SD),150-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79216,-122.39470
+AT&T,CCL06634F_R02,CRAN_611 Folsom_2_35,3718,026,C-3-O(SD),400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79131,-122.39441
+AT&T,CCL06635F_R01,CRAN_555 Pine_2_13,0204,021,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79592,-122.39953
+AT&T,CCL06635F_R02,CRAN_555 Pine_2_30,204,019,C-3-O,200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79541,-122.40032
+AT&T,CCL06636F_R01,CRAN_555 Pine_2_14,0203,013,P,OS,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79544,-122.39764
+AT&T,CCL06636F_R02,CRAN_555 Pine_2_15,0233,044,C-3-O,200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79539,-122.39675
+AT&T,CCL06637F_R01,CRAN_611 Folsom_2_17,3718,026,C-3-O(SD),400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79150,-122.39521
+AT&T,CCL06637F_R02,CRAN_611 Folsom_2_25,3710,020,C-3-O(SD),450-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79226,-122.39732
+AT&T,CCL06638F_R01,CRAN_555 Pine_2_18,0230,028,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79509,-122.39973
+AT&T,CCL06638F_R02,CRAN_555 Pine_2_22,237,001,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79419,-122.39903
+AT&T,CCL06639F_R02,CRAN_555 Pine_2_47,0141,011,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79877,-122.40102
+AT&T,CCL06640F_R01,CRAN_555 Pine_2_20,0232,016,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79460,-122.39710
+AT&T,CCL06640F_R02,CRAN_555 Pine_2_21,0232,016,C-3-O,300-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79452,-122.39768
+AT&T,CCL06641F_R01,CRAN_555 Pine_2_23,0264,004,C-3-O,400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79351,-122.39702
+AT&T,CCL06641F_R02,CRAN_555 Pine_2_24,0262,020,C-3-O,400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79286,-122.39877
+AT&T,CCL06642F_R01,CRAN_555 Pine_2_26,0112,008,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.80041,-122.40256
+AT&T,CCL06642F_R02,CRAN_555 Pine_2_45,0136,005,C-2,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.80043,-122.40132
+AT&T,CCL06643F_R01,CRAN_555 Pine_2_28,0207,036,C-3-O,200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79561,-122.40225
+AT&T,CCL06643F_R02,CRAN_555 Pine_2_33,0174,011,C-2,65-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79755,-122.40144
+AT&T,CCL06644F_R01,CRAN_611 Folsom_2_31,3715,001,C-3-O,84-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79355,-122.39264
+AT&T,CCL06644F_R02,CRAN_611 Folsom_2_32,3715,003,C3O,84-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79298,-122.39272
+AT&T,CCL06645F_R02,CRAN_611 Folsom_2_39,3718,025,TB DTR,50/85/550-TB,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79038,-122.39389
+AT&T,CCL06646F_R01,CRAN_611 Folsom_2_40,3738,012,C-3-O(SD),400-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78928,-122.39497
+AT&T,CCL06646F_R02,CRAN_611 Folsom_3_05,3721,119,C-3-O(SD),150-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78874,-122.39638
+AT&T,CCL06647F_R01,CRAN_611 Folsom_2_41,3715,013,C-3-O(SD),84-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79221,-122.39154
+AT&T,CCL06648F_R01,CRAN_611 Folsom_2_42,3741,031,C-3-O(SD),65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79160,-122.39203
+AT&T,CCL06648F_R02,CRAN_611 Folsom_2_43,3717,020,C-3-O(SD),200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79102,-122.39301
+AT&T,CCL06649F_R01,CRAN_RSFR_00002_44,0132,051,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79968,-122.40731
+AT&T,CCL06650F_R01,CRAN_611 Folsom_3_02,3752,009,MUR,85-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78149,-122.40071
+AT&T,CCL06650F_R02,CRAN_611 Folsom_3_39,3734,091,C-3-S,340-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78219,-122.40123
+AT&T,CCL06651F_R01,CRAN_611 Folsom_3_03,3750,086,MUR,85-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78271,-122.39738
+AT&T,CCL06651F_R02,CRAN_611 Folsom_3_15,3735,013,C-3-S,200-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78473,-122.39800
+AT&T,CCL06652F_R01,CRAN_611 Folsom_3_04,3762,112,SLI,85-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78083,-122.39945
+AT&T,CCL06652F_R02,CRAN_611 Folsom_3_21,3761,062,P,30-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77985,-122.39860
+AT&T,CCL06653F_R01,CRAN_611 Folsom_3_06,3738,016,TB DTR,50/85/550-TB,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78841,-122.39400
+AT&T,CCL06653F_R02,CRAN_611 Folsom_3_20,3738,016,TB DTR,50/85/300-TB,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78888,-122.39310
+AT&T,CCL06654F_R01,CRAN_611 Folsom_3_08,3735,063,C-3-O(SD),150-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78645,-122.39855
+AT&T,CCL06654F_R02,CRAN_611 Folsom_3_09,3735,041,C-3-O(SD),250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78553,-122.39899
+AT&T,CCL06655F_R01,CRAN_611 Folsom_3_01,3734,091,C-3-S,340-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78422,-122.39965
+AT&T,CCL06655F_R02,CRAN_611 Folsom_3_10,3722,367,C-3-S or C-3-O,500-I or 320-I,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78565,-122.39984
+AT&T,CCL06656F_R01,CRAN_611 Folsom_3_23,3761,062,P,30-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77807,-122.40015
+AT&T,CCL06657F_R01,CRAN_611 Folsom_3_11,3735,063,C-3-O(SD),150-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78638,-122.39790
+AT&T,CCL06657F_R02,CRAN_611 Folsom_3_14,3736,027,C-3-O(SD),250-S,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78594,-122.39641
+AT&T,CCL06658F_R01,CRAN_611 Folsom_3_07,3736,156,TB DTR,50/165/400-TB,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78712,-122.39574
+AT&T,CCL06659F_R01,CRAN_611 Folsom_3_26,3764,064,MUO,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78441,-122.39228
+AT&T,CCL06659F_R02,CRAN_611 Folsom_3_34,3773,100A,SB-DTR,105-F,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78469,-122.39110
+AT&T,CCL06660F_R01,CRAN_611 Folsom_3_13,3736,120,TB DTR,50/165/400-TB,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78754,-122.39494
+AT&T,CCL06660F_R02,CRAN_611 Folsom_3_27,3747,320,RH DTR,85/400-R,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78716,-122.39242
+AT&T,CCL06660F_R03,MMWV_RSFR_SFDT0_002,3748,033,RH DTR,85/200-R,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78706,-122.39403
+AT&T,CCL06661F_R01,CRAN_RSFR_00003_16,8701,003,MB-O,110,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77519,-122.397255
+AT&T,CCL06661F_R02,CRAN_611 Folsom_3_36,3786,136,CMUO,130-CS,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77692,-122.39541
+AT&T,CCL06662F_R01,CRAN_611 Folsom_3_17,3787,018,SLI,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77826,-122.39368
+AT&T,CCL06662F_R02,CRAN_611 Folsom_3_38,3794,005,MUO,105-F,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.77859,-122.39224
+AT&T,CCL06663F_R01,CRAN_611 Folsom_3_19,3746,007,RC-4,400-W,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78926,-122.39176
+AT&T,CCL06663F_R02,CRAN_611 Folsom_3_28,3746,002,RH DTR,85/150-R,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78788,-122.39083
+AT&T,CCL06664F_R01,CRAN_611 Folsom_3_22,3768,015,RH DTR,84-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78792,-122.38841
+AT&T,CCL06665F_R02,CRAN_611 Folsom_3_29,3764,068,MUO,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78453,-122.39473
+AT&T,CCL06666F_R01,CRAN_611 Folsom_3_30,3763,105,SSO,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78370,-122.39578
+AT&T,CCL06666F_R02,CRAN_611 Folsom_3_31,3763,032,MUO,45-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78280,-122.39502
+AT&T,CCL06667F_R01,CRAN_611 Folsom_3_33,3771,004,SB-DTR,45-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78553,-122.38863
+AT&T,CCL06667F_R02,CRAN_611 Folsom_3_46,3790,001,SB-DTR,45-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78284,-122.38883
+AT&T,CCL06668F_R01,CRAN_611 Folsom_3_35,3774,067,MUO,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78278,-122.39303
+AT&T,CCL06668F_R02,CRAN_611 Folsom_3_42,3788,042,MUO,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78113,-122.39288
+AT&T,CCL06669F_R01,CRAN_611 Folsom_3_37,3786,136,MUO,85-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77757,-122.39573
+AT&T,CCL06670F_R02,CRAN_611 Folsom_3_43,3792,002,SB-DTR,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78138,-122.38952
+AT&T,CCL06671F_R01,CRAN_611 Folsom_3_41,3775,072,SLI,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78105,-122.39535
+AT&T,CCL06671F_R02,CRAN_611 Folsom_3_45,3762,007,SLI,85-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.78164,-122.39650
+AT&T,CCL06681F_R02,CRAN_RSFR_00004_29,766,005,P,80-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.7802372,-122.41967
+AT&T,CCL06711F_R02,CRAN_RSFR_00005_30,251,015,RC-4,65-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.79034394,-122.41722
+AT&T,CCL06737F_R01,CRAN_RSFR_00006_31,544,001,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.7980536,-122.42734
+AT&T,CCL06842F_R02,CRAN_1515 19th Avenue _SFOK1_018,2483,005,NCD,26-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73771,-122.46959
+AT&T,CCL06937F_R01,CRAN_1515 19th_SFOK1_001,7298,005,P,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73104,-122.48337
+AT&T,CCL06937F_R02,CRAN_1515 19th_SFOK1_013,3069,011,RH-1(D),40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73486,-122.47124
+AT&T,CCL06938F_R02,CRAN_RSFR_SFOK1_004,7295,038,C2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.72694,-122.47556
+AT&T,CCL06940F_R02,CRAN_RSFR_SFOK1_019,7380,038,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.71477,-122.48503
+AT&T,CCL06942F_R01,CRAN_RSFR_SFOK1_014,3179,010,P,105-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.72418,-122.45226
+AT&T,CCL06942F_R03,CRAN_RSFR_SFOK1_017,3179,010,P,105-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.72294,-122.45094
+AT&T,CCL07084F_R01,CRAN_RSFR_SFOK10_001,1520,039,NC-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,31,Melissa Murphree,925-963-8027,,37.78013,-122.48421
+AT&T,CCL07084F_R02,CRAN_RSFR_SFOK10_002,1523,46B,NC-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78027,-122.48101
+AT&T,CCL07085F_R02,CRAN_RSFR_SFOK10_005,1657,051,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77302,-122.47209
+AT&T,CCL07086F_R02,CRAN_389 9th_SFOK10_009,1426,022,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78296,-122.46608
+AT&T,CCL07088F_R02,CRAN_389 9th_SFOK10_013,143,0047,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78483,-122.46553
+AT&T,CCL07089F_R01,CRAN_RSFR_SFOK10_016,1084,005,NC-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78136,-122.45689
+AT&T,CCL07090F_R01,CRAN_RSFR_SFOK10_018,1108,003C,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78062,-122.44736
+AT&T,CCL07090F_R02,CRAN_RSFR_SFOK10_033,1111,002,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77879,-122.44660
+AT&T,CCL07090F_R03,CRAN_RSFR_SFOK10_034,1119,014,RH-1,25-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77915,-122.44376
+AT&T,CCL07091F_R01,CRAN_2345 Pine_SFOK10_019,1081,042,RH-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78284,-122.44436
+AT&T,CCL07091F_R02,CRAN_RSFR_SFOK10_030,0707,021,RM-3,130-B,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78309,-122.43432
+AT&T,CCL07091F_R03,CRAN_RSFR_SFOK10_035,1155,020,NCT,65-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.778241,-122.438357
+AT&T,CCL07092F_R01,CRAN_RSFR_SFOK10_021,1008,011,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78811,-122.44809
+AT&T,CCL07092F_R02,CRAN_2345 Pine_SFOK10_022,1032,003,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78702,-122.44802
+AT&T,CCL07093F_R01,CRAN_2345 Pine_SFOK10_023,1024,015,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78774,-122.44366
+AT&T,CCL07094F_R01,CRAN_RSFR_SFOK10_025,0660,019,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78706,-122.43342
+AT&T,CCL07094F_R02,CRAN_2345 Pine_SFOK10_026,0686,034,NCD,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78563,-122.42976
+AT&T,CCL07094F_R03,CRAN_RSFR_SFOK10_027,0685,001,NCD,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78634,-122.43005
+AT&T,CCL07095F_R02,"CRAN_2345 Pine St, SF_SFOK10_029",0707,001,NCT,130-B,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78409,-122.43294
+AT&T,CCL07095F_R03,"CRAN_2345 Pine St, SF_SFOK10_031",0731,020,NCT/RM-3,130-B/160-F,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78222,-122.43260
+AT&T,CCL07096F_R01,CRAN_RSFR_SFOK10_010,1145,003,RH-2,80-D,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,31,Melissa Murphree,925-963-8027,,37.77638,-122.45301
+AT&T,CCL07096F_R02,CRAN_389 9th_SFOK10_032,1147,017,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77799,-122.45133
+AT&T,CCL07096F_R03,CRAN_RSFR_VISTA_012,1036,044,NC-S,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.786324,-122.453563
+AT&T,CCL07097F_R01,CRAN_RSFR_SFOK10_036,1177,001,RM1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77726,-122.44180
+AT&T,CCL07097F_R02,CRAN_2345 Pine_SFOK10_037,1175,031-171,NC-S,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77597,-122.44586
+AT&T,CCL07097F_R03,CRAN_RSFR_SFOK10_044,1196,001,P,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77385,-122.44765
+AT&T,CCL07098F_R02,CRAN_389 9th_SFOK10_040,1212,054,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77226,-122.45236
+AT&T,CCL07098F_R03,CRAN_RSFR_SFOK10_041,1228,006,NCD,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76951,-122.45353
+AT&T,CCL07101F_R01,"CRAN_1 McCoppin, SF_SFOK10_046",1215,015,NCT,65-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77386,-122.43762
+AT&T,CCL07101F_R02,CRAN_RSFR_SFOK10_047,1217,020,NCT,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77239,-122.43718
+AT&T,CCL07101F_R03,CRAN_RSFR_SFOK10_048,1234,006,RM-1,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77053,-122.44230
+AT&T,CCL07102F_R01,CRAN_389 9th_SFOK10_050,1250,023,NCD,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76788,-122.45320
+AT&T,CCL07102F_R02,CRAN_389 9th_SFOK10_051,1262,021,NC-1,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76652,-122.45295
+AT&T,CCL07103F_R01,CRAN_RSFR_SFOK10_052,1265,026,RH-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76581,-122.45706
+AT&T,CCL07103F_R02,CRAN_RSFR_SFOK10_053,1742,15C,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76416,-122.46581
+AT&T,CCL07103F_R03,CRAN_1515 19th_SFOK10_061,1289,084-6,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76143,-122.45185
+AT&T,CCL07104F_R01,CRAN_1515 19th_SFOK10_054,1737,005,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76392,-122.47076
+AT&T,CCL07104F_R02,CRAN_1515 19th Avenue _SFOK10_056,1741,054,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76591,-122.46698
+AT&T,CCL07104F_R03,CRAN_1515 19th_SFOK10_057,1764,042,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76393,-122.46725
+AT&T,CCL07105F_R01,CRAN_RSFR_SFOK10_055,1774,046,NCD,105-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76346,-122.47773
+AT&T,CCL07105F_R02,CRAN_1515 19th_SFOK10_059,1775,046,NCD,105-A,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76341,-122.47916
+AT&T,CCL07106F_R02,CRAN_RSFR_SFOK10_073,1253,024,RH3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76711,-122.44814
+AT&T,CCL07107F_R01,CRAN_RSFR_SFOK10_064,3539,001,RH-3,130-E/65-D,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.768965,-122.4357
+AT&T,CCL07107F_R02,CRAN_1 McCoppin_SFOK10_074,3538,001,RTO,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76926,-122.43157
+AT&T,CCL07107F_R03,CRAN_RSFR_SFOK10_079,3537,016,NCT,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76783,-122.42910
+AT&T,CCL07108F_R01,CRAN_1 McCoppin_SFOK10_062,2629,010,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76210,-122.44684
+AT&T,CCL07109F_R01,CRAN_1 McCoppin_SFOK10_069,0828,023,RM-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77498,-122.42997
+AT&T,CCL07110F_R01,CRAN_RSFR_SFOK10_070,3564,162,NCT,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76419,-122.43284
+AT&T,CCL07110F_R02,CRAN_RSFR_SFOK10_071,3599,001,P,OS,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.7585756,-122.4280621
+AT&T,CCL07111F_R02,CRAN_1 McCoppin_SFOK10_080,3555,059,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76465,-122.42411
+AT&T,CCL07111F_R03,CRAN_RSFR_SFOK10_083,3554,016,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76509,-122.42184
+AT&T,CCL07112F_R02,CRAN_1 McCoppin_SFOK10_081,3532,091,NCT-3,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76869,-122.42216
+AT&T,CCL07112F_R03,"CRAN_1 McCoppin, SF_SFOK10_082",3547,010,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76696,-122.42205
+AT&T,CCL07113F_R01,CRAN_RSFR_SFOK10_084,3569,038,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76347,-122.42165
+AT&T,CCL07113F_R02,CRAN_RSFR_SFOK10_098,3589,002,NCT,65-B,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76152,-122.41949
+AT&T,CCL07113F_R03,CRAN_RSFR_SFOK10_099,3576,001,NCT,80-B,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76336,-122.41971
+AT&T,CCL07114F_R01,CRAN_3333 25th Street_SFOK10_085,3596,098,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75979,-122.42134
+AT&T,CCL07114F_R03,CRAN_RSFR_SFOK10_097,3596,001,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.760179,-122.41937
+AT&T,CCL07115F_R01,CRAN_RSFR_SFOK10_086,3609,039,NCT,50-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75820,-122.42116
+AT&T,CCL07115F_R02,CRAN_3333 25th_SFOK10_087,3643,034,P,45-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75341,-122.42071
+AT&T,CCL07116F_R01,CRAN_3333 25th Street_SFOK10_088,3644,021,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75237,-122.42082
+AT&T,CCL07116F_R02,CRAN_RSFR_SFOK10_089,6528,052,NCT,65-B,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.74912,-122.41801
+AT&T,CCL07116F_R03,CRAN_RSFR_SFOK10_090,6571,052,NCT,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.748229,-122.41505
+AT&T,CCL07117F_R01,CRAN_RSFR_SFSO1_006,6959,028,NC3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.72103,-122.43772
+AT&T,CCL07121F_R01,CRAN_3333 25th_SFOK10_091,4337,009,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.74834,-122.40980
+AT&T,CCL07122F_R01,CRAN_3333 25th_SFOK10_093,4268,035,NCT,45-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75270,-122.40994
+AT&T,CCL07122F_R02,CRAN_3333 25th_SFOK10_094,6519,040,NCT,55-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.75229,-122.41617
+AT&T,CCL07361F_R01,CRAN_RSFR_SFSO1_012,3115,043,NC-1,32-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73145,-122.44971
+AT&T,CCL07364F_R01,CRAN_RSFR_SFSO1_021,6755,026,P,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.733372,-122.43381
+AT&T,CCL07385F_R02,CRAN_RSFR_SFSO1_016,5746,019,NC-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73556,-122.424548
+AT&T,CCL07385F_R03,CRAN_RSFR_SFSO1_018,5719,001,NC-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.73674,-122.42435
+AT&T,CCL07391F_R01,CRAN_RSFR_VISTA_003,1190,001,RH3,80-D,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77331,-122.45428
+AT&T,CCL07391F_R02,CRAN_RSFR_VISTA_009,1188,037,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77533,-122.44961
+AT&T,CCL07391F_R03,CRAN_RSFR_SFOK10_038,1145,002,RH2,80-D,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77500,-122.45219
+AT&T,CCL07392F_R01,CRAN_RSFR_VISTA_002,2617,063,RH-2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76441,-122.44586
+AT&T,CCL07392F_R02,CRAN_RSFR_VISTA_010,1270,039,RH-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.766934,-122.44628
+AT&T,CCL07392F_R03,CRAN_RSFR_VISTA_011,1255,030,RH-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76787,-122.44643
+AT&T,CCL07394F_R01,CRAN_RSFR_VISTA_005,1007,015,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78832,-122.44654
+AT&T,CCL07394F_R02,CRAN_RSFR_VISTA_006,1020,036,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78773,-122.45020
+AT&T,CCL07394F_R03,CRAN_RSFR_VISTA_014,1009,007,NCD,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78803,-122.44883
+AT&T,CCL07395F_R01,CRAN_RSFR_VISTA_015,1095,005,NC-3,105-E,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.78251,-122.44237
+AT&T,CCL07395F_R02,CRAN_RSFR_SFOK10_043,1209,046,RH-3,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77336,-122.44614
+AT&T,CCL07396F_R03,CRAN_RSFR_SFDT1_003,3739,002,C3OSD,50/85/165,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,"LTE, 5G","1900, 5000, 39000",109,32,Melissa Murphree,925-963-8027,,37.79022,-122.39303
+AT&T,CCL07397F_R01,CRAN_RSFR_00003_44,3785,009,SLI,65-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.77324,-122.39155
+AT&T,CCL07589F_R01,CRAN_RSFR_SFSO2_009,5501,079,RH-2/NCD,50-X/40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.748159,-122.418086
+AT&T,CCL07590F_R01,CRAN_RSFR_SFSO2_012,2658,001,RH2,40-X,Utility,,"voice, video & data",wireless phones & modems,1,Central Office,LTE,"1900, 5000",109,32,Melissa Murphree,925-963-8027,,37.76108,-122.44111
+Tmobile,SF03133,,N/A,N/A,N/A,N/A,mixed use,,"voice, video, data",,2,Roof,,1900 / 2100,,51.33585,Rana.Christie30@T-Mobile.com,,Port Authority,37.78891633,-122.3875274
+Tmobile,SF03260,,NA,NA,NA,NA,mixed use,,"voice, video, data",,2,Ground,,1900 / 2100,,57.2728,Rana.Christie30@T-Mobile.com,,Port Authority,37.80671111,-122.4053222
+Tmobile,SF03268,,NA,NA,NA,NA,mixed use,,"voice, video, data",,4,Ground,,1900 / 2100,,37.33025,Rana.Christie30@T-Mobile.com,,Golden Gate Bridge,37.80683333,-122.4756938
+Tmobile,SF23206,,1936,001,N/A,N/A,Flag Pole,,"voice, video, data",,2,Outdoors,,1900 / 2100,,52.1997,Rana.Christie30@T-Mobile.com,,,37.82562700,-122.37397000
+Tmobile,LSF1040BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.748299,-122.412275
+Tmobile,SF23221,,0453,010,NC-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,46.1466,Rana.Christie30@T-Mobile.com,,,37.805214,-122.423465
+Tmobile,SF03037,,5695,024,NC-S,40-X,Commercial,,"voice, video, data",,6,Ground,,700 / 1900 / 2100,,38.1941,Rana.Christie30@T-Mobile.com,,,37.73769411,-122.4085
+Tmobile,SF03004,,0014,001,C-2,40-X,Commercial,,"voice, video, data",,6,Ground Floor,,700 / 1900 / 2100,,49.330458,Rana.Christie30@T-Mobile.com,,Port Authority,37.80797222,-122.4109722
+Tmobile,SF03292,,3785,023,SLI,65-X,Industrial,,"voice, video, data",,3,Internal,,1900 / 2100,,82.2664,Rana.Christie30@T-Mobile.com,,,37.78274933,-122.4061389
+Tmobile,SF23217,,0090,028,NB NCD,40-X,Mixed-Use,,"voice, video, data",,1,Basement,,1900 / 2100,,44.31665,Rana.Christie30@T-Mobile.com,,,37.801721,-122.412001
+Tmobile,SF03031,,2901B,017,NC-1,26-X,Mixed-Use,,"voice, video, data",,6,Roof,,1900 / 2100,,45.33345,Rana.Christie30@T-Mobile.com,,,37.74436078,-122.4527778
+Tmobile,SF03581,,1519,035A,NC-3,40-X,Residential,,"voice, video, data",,6,Roof,,700 / 1900 / 2100,,76.2093,Rana.Christie30@T-Mobile.com,,,37.77963822,-122.4854441
+Tmobile,BA10038,,6474,034,NCD,40-X,non-bldg,,"voice, video, data",,1,Ground,,1900 / 2100,,30,Rana.Christie30@T-Mobile.com,,,37.71042,-122.44733
+Tmobile,SF03025,,7519/7520,018/015,RM-1,40-X,Residential,,"voice, video, data",,1,Internal,,1900 / 2100,,41.2992,Rana.Christie30@T-Mobile.com,,,37.74427744,-122.4381386
+Tmobile,SF03289,,859,025,NC-2,40-X,Mixed-Use,,"voice, video, data",,2,Internal,,1900 / 2100,,43.0045,Rana.Christie30@T-Mobile.com,,,37.77202711,-122.4303049
+Tmobile,SF03150,,2831,005,24TH-NOE,40-X,Residential,,"voice, video, data",,2,Roof,,1900 / 2100,,44.0213,Rana.Christie30@T-Mobile.com,,,37.75138889,-122.434333
+Tmobile,SF70509,,6570,013,NCT,55-X,Building,,"voice, video, data",,2,Ground,,1900 / 2100,,70,Rana.Christie30@T-Mobile.com,,,37.749047,-122.41794
+Tmobile,SF23258,,2979,008,West Portal NCD,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,28.1394,Rana.Christie30@T-Mobile.com,,,37.74105457,-122.464653
+Tmobile,SF70020,,2412,034,NC-3,40X,Public,,"voice, video, data",,3,Basement,,1900 / 2100,,37.151765,Rana.Christie30@T-Mobile.com,,,37.7431,-122.47
+Tmobile,SF23287,,6637,021,NC-1,40X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,46.1466,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.74232379,-122.4259967
+Tmobile,SF03047,,6431A,001M,M-1,65-J,Industrial,,"voice, video, data",,6,Roof,,700 / 1900 / 2100,,47.2141,Rana.Christie30@T-Mobile.com,,,37.72333267,-122.3956941
+Tmobile,SFB4001,,7099,014,NCD,40-X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.71061,-122.448
+Tmobile,SF70565,,,,,,Commercial,,"voice, video, data",,2,Roof,,1900 / 2100,,60,Rana.Christie30@T-Mobile.com,,,37.71097,-122.44757
+Tmobile,SF53516,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,38.6354,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.77702400,-122.50803700
+Tmobile,SF03266,,1527,036,NC-3,40-X,mixed use,,"voice, video, data",,2,Roof,,1900 / 2100,,39.0029,Rana.Christie30@T-Mobile.com,,,37.78027711,-122.4770827
+Tmobile,SF70589,,,,,,Commercial,,"voice, video, data",,2,Roof,,1900 / 2100,,35,Rana.Christie30@T-Mobile.com,,,37.73285,-122.39158
+Tmobile,SF13414,,1146,24,NC-3,40-X,Commercial,,"voice, video, data",,2,Roof,,1900 / 2100,,46.0221,Rana.Christie30@T-Mobile.com,,,37.78065888,-122.4727482
+Tmobile,SF70025,,3206,003,NC-3,65A,Commercial,,"voice, video, data",,6,Basement,,1900 / 2100,,70.32705,Rana.Christie30@T-Mobile.com,,,37.724483,-122.435268
+Tmobile,SF03034,,5296,033,NC-3,40-X,Nbr-Com,,"voice, video, data",,1,Roof,,1900 / 2100,,20.1362,Rana.Christie30@T-Mobile.com,,,37.76886044,-122.4381386
+Tmobile,SF23245,,1801,049,NC-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,37.761092,Rana.Christie30@T-Mobile.com,,,37.76186665,-122.5060782
+Tmobile,SF53322,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,42.637,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7495,-122.508
+Tmobile,SF03036,,6800,044,NC-3,40-X,Mixed-Use,,"voice, video, data",,6,Roof,,1900 / 2100,,51.33585,Rana.Christie30@T-Mobile.com,,,37.72872156,-122.4314716
+Tmobile,SF53309,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,56.5181,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7785,-122.497
+Tmobile,SF23247,,1888,007,R-1,40-X,Hotel/Motel,,"voice, video, data",,1,Roof,,1900 / 2100,,34.1418,Rana.Christie30@T-Mobile.com,,,37.76006782,-122.506987
+Tmobile,SF03296,,1586,014,RH-2,40-X,Residential,,"voice, video, data",,1,Basement,,1900 / 2100,,70.2944,Rana.Christie30@T-Mobile.com,,,37.77552711,-122.5041667
+Tmobile,SF03127,,N/A,NA,NA,NA,Hospital,,"voice, video, data",,8,Roof,,1900 / 2100,,86.1805,Rana.Christie30@T-Mobile.com,,,37.7816,-122.505
+Tmobile,SF63120,,ROW,ROW,NC-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,48.8446,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.760233,-122.504958
+Tmobile,SF23244,,1709,015,NC- 1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,32.2665,Rana.Christie30@T-Mobile.com,,,37.76251194,-122.5009309
+Tmobile,SF23269,,6509,020,NCD,40X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,53.2585,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.75136129,-122.4291507
+Tmobile,SF23251,,2004,061,RH-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,41.1282,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.75289349,-122.5048778
+Tmobile,SF53447,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,44.0213,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7535,-122.425
+Tmobile,SF1041BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.748898,-122.421411
+Tmobile,LSF1041BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.748898,-122.421411
+Tmobile,SF1032BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.75879,-122.417479
+Tmobile,LSF1032BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.75879,-122.417479
+Tmobile,SF13457,,5642,50,NC-3,40-X,Mixed-Use,,"voice, video, data",,2,Roof,,1900 / 2100,,39.0029,Rana.Christie30@T-Mobile.com,,,37.74302267,-122.4214625
+Tmobile,SF03029,,6527,045,RM-2,50-X,Quasi-Public,,"voice, video, data",,6,Internal,,1900 / 2100,,63.1877,Rana.Christie30@T-Mobile.com,,,37.75041667,-122.4168604
+Tmobile,LSF1030BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.755077,-122.420878
+Tmobile,SF03050,,7231,003,RH-1(D),40-X,Industrial,,"voice, video, data",,6,Roof,,1900 / 2100 / 700,,57.1853,Rana.Christie30@T-Mobile.com,,,37.72974933,-122.4742493
+Tmobile,LSF1040BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.749203,-122.414782
+Tmobile,SF1031BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.752429,-122.416463
+Tmobile,LSF1031BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.752429,-122.416463
+Tmobile,SF1031BA_11,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.754152,-122.414412
+Tmobile,SF13012,,2454,57,NC-1,40-X,Mixed-Use,,"voice, video, data",,2,Ground,,1900 / 2100,,51.0077,Rana.Christie30@T-Mobile.com,,,37.7377389,-122.4998261
+Tmobile,LSF1040BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,31,T-Mobile NOC,,Small cell,37.74931,-122.412813
+Tmobile,LSF1031BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.752561,-122.414262
+Tmobile,SF53308,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,40.6362,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7745,-122.458
+Tmobile,SF03459,,1023,020,RH-2,40-X,Residential,,"voice, video, data",,2,Ground,,1900 / 2100,,50.2864,Rana.Christie30@T-Mobile.com,,,37.787583,-122.4451108
+Tmobile,SF23243,,1790,010G,RH- 3,40- X,Church,,"voice, video, data",,2,Steeple,,1900 / 2100,,40.2824,Rana.Christie30@T-Mobile.com,,,37.76092678,-122.4948564
+Tmobile,LSF1031BA61,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.752695,-122.412085
+Tmobile,SF43580,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,49.0069,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.755,-122.411
+Tmobile,SF23259,,ROW,ROW,RH-1 (D),40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,42.637,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7359,-122.471
+Tmobile,SF1030BA_21,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.752191,-122.41863
+Tmobile,LSF1030BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.752191,-122.41863
+Tmobile,SF13150,,1821,1,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Internal,,1900 / 2100,,30.0157,Rana.Christie30@T-Mobile.com,,,37.76077502,-122.4910087
+Tmobile,SF70033,,2513,026,NC-2,100A,Community Center,,"voice, video, data",,3,Ground,,1900 / 2100 / 700,,42,Rana.Christie30@T-Mobile.com,,,37.7359,-122.503
+Tmobile,SF03579,,1071,004,NC-3,80-D,Industrial,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,102,Rana.Christie30@T-Mobile.com,,,37.7826,-122.447986
+Tmobile,LSF1031BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.754152,-122.414412
+Tmobile,SF70035,,7226,023,NC-1,26-X,Building,,"voice, video, data",,3,Basement,,1900 / 2100,,124,Rana.Christie30@T-Mobile.com,,,37.73167,-122.47424
+Tmobile,SF03456,,4016,001,M-1,50-X,Office,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,81.31505,Rana.Christie30@T-Mobile.com,,,37.76233333,-122.41
+Tmobile,SF13455,,3637,069,NC-3,65-B,Mixed-Use,,"voice, video, data",,6,Ground,,1900 / 2100,,119.2648,Rana.Christie30@T-Mobile.com,,,37.75540246,-122.418755
+Tmobile,SF23253,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,56.6426,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7351,-122.506
+Tmobile,SF03018,,4339,007,M-2,65-J,Industrial,,"voice, video, data",,6,Roof,,1900 / 2100,,43.33265,Rana.Christie30@T-Mobile.com,,,37.748583,-122.4033611
+Tmobile,SF23250,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,38.939,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.74991944,-122.48786100
+Tmobile,BA10274,,7045,1,RH-1,40-X,Public,,"voice, video, data",,1,Bell Tower,,1900 / 2100,,39.2984,Rana.Christie30@T-Mobile.com,,,37.71503628,-122.4457677
+Tmobile,SF13021,,2017,021,NC-2,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,51.075,Rana.Christie30@T-Mobile.com,,,37.75355303,-122.4904452
+Tmobile,SF23235,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,51.62,Ryan.Wunsch1@T-Mobile.com,,,37.766265,-122.438579
+Tmobile,SF43445,,4213,001,P,40-X,Building,,"voice, video, data",,6,Shelter,,1900 / 2100,,50,Rana.Christie30@T-Mobile.com,,,37.754255,-122.404715
+Tmobile,SF03149,,0937,020,NC-3,40-X,Commercial,,"voice, video, data",,2,Ground,,1900 / 2100,,20.3072,Rana.Christie30@T-Mobile.com,,,37.79888856,-122.4424719
+Tmobile,SF43557,,ROW,ROW,PDR-1-G,68-X,Mixed Use,,"voice, video, data",,6,Indoor,,1900 / 2100,,71.31105,Rana.Christie30@T-Mobile.com,,,37.757,-122.388
+Tmobile,SF43412,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,38.6354,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7578,-122.49
+Tmobile,SF13157,,930,9,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,50.2864,Rana.Christie30@T-Mobile.com,,,37.79999897,-122.4429184
+Tmobile,SF43566,,ROW,ROW,NC-2,50-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,52.1162,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7417,-122.496
+Tmobile,SF53320,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,43.129,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.74223889,-122.49922200
+Tmobile,SF23226,,1051,013,NC-3,65-A,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,39.2529,Rana.Christie30@T-Mobile.com,,,37.78562791,-122.438245
+Tmobile,SF03017,,3562,004,UPR MARKET,50-X,Residential,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,64,Rana.Christie30@T-Mobile.com,,,37.76387,-122.434037
+Tmobile,SF43562,,ROW,ROW,RH-1 (D),40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,44.1458,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7651,-122.484
+Tmobile,SF23222,,0539,025,UNION NCD,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,40.2697,Rana.Christie30@T-Mobile.com,,,37.79677934,-122.4368204
+Tmobile,SF03156,,0564,019,RM-1,40-X,Residential,,"voice, video, data",,2,Roof,,1900 / 2100,,135.2712,Rana.Christie30@T-Mobile.com,,,37.794583,-122.4347774
+Tmobile,SF53470,,3591,001,PDR-1-G,58-X,Commercial,,"voice, video, data",,6,Outdoors,,1900 / 2100 / 700,,50.31905,Rana.Christie30@T-Mobile.com,,,37.76067900,-122.41522100
+Tmobile,SF43567,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,51.1322,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7731,-122.478
+Tmobile,SF03460,,1079,007,NC-3,105-X,Office,,"voice, video, data",,1,Roof,,1900 / 2100,,114.2792,Rana.Christie30@T-Mobile.com,,,37.78338856,-122.4409163
+Tmobile,SF23210,,0041,006,NB NCD,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,39.2324,Rana.Christie30@T-Mobile.com,,,37.8051474,-122.4117995
+Tmobile,SF63252,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,47.9901,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.745432,-122.504993
+Tmobile,SF03155,,1190,001,RH-3,80-D,Institutional,,"voice, video, data",,3,Roof,,1900 / 2100,,40.322922,Rana.Christie30@T-Mobile.com,,,37.77483267,-122.4521944
+Tmobile,SF03048,,0574,018,RC-4,80-D,Residential,,"voice, video, data",,6,Roof,,1900 / 2100,,51.3032,Rana.Christie30@T-Mobile.com,,,37.79555522,-122.422916
+Tmobile,SF13024,,629,16,RM-1,60-F,Medical,,"voice, video, data",,6,Internal,,1900 / 2100,,131.30225,Rana.Christie30@T-Mobile.com,,,37.79025091,-122.4324519
+Tmobile,SF53443,,0629,037,RM-1,40-X,Commercial,,"voice, video, data",,N/A,Roof,,1900 / 2100,,32.9508335,Rana.Christie30@T-Mobile.com,,Extenet-owned DAS,37.7992,-122.431
+Tmobile,SF43563,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,39.1274,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.75750800,-122.48564500
+Tmobile,SF03120,,4011,001,RH-3,40-X,Quasi-Public,,"voice, video, data",,1,Ground,,1900 / 2100,,25.2928,Rana.Christie30@T-Mobile.com,,,37.76327778,-122.40475
+Tmobile,SF03252,,3544,065,UPR MARKET,80-B,Commercial,,"voice, video, data",,2,Internal,,1900 / 2100,,37.0021,Rana.Christie30@T-Mobile.com,,,37.76744378,-122.4288049
+Tmobile,SF13128,,1151,025,RH-3,40-X,Church,,"voice, video, data",,1,Roof,,1900 / 2100,,39.2984,Rana.Christie30@T-Mobile.com,,,37.77895591,-122.4434625
+Tmobile,SF13086,,1025,3,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Ground,,1900 / 2100,,38.2816,Rana.Christie30@T-Mobile.com,,,37.78850495,-122.4405289
+Tmobile,SF03173,,0492,011 & 012,NC-3,40-X,Commercial,,"voice, video, data",,2,Basement,,1900 / 2100,,25.1546,Rana.Christie30@T-Mobile.com,,,37.80008333,-122.435583
+Tmobile,SF43603,,0467A,023,NC-2,40-X,Mixed Use,,"voice, video, data",,2,Pole,,1900 / 2100,,64.2589,Rana.Christie30@T-Mobile.com,,,37.80094444,-122.43675000
+Tmobile,SF03040,,TBD,TBD,NC-S,40-X,Nbr-Com,,"voice, video, data",,6,Internal,,700 / 1900 / 2100,,50.31905,Rana.Christie30@T-Mobile.com,,,37.71370748,-122.39898768
+Tmobile,SF03276,,2094,006,RH-1,40-X,Institutional,,"voice, video, data",,6,Roof,,1900 / 2100 / 700,,46.2848,Rana.Christie30@T-Mobile.com,,,37.748303,-122.495987
+Tmobile,SF03461,,0541,024,UNION NCD,40-X,Commercial,,"voice, video, data",,1,Internal,,1900 / 2100,,40.2697,Rana.Christie30@T-Mobile.com,,,37.79736078,-122.432666
+Tmobile,SF43568,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,46.0221,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7536,-122.484
+Tmobile,SF03012,,0659,020,FILLMORE,40-X,Quasi-Public,,"voice, video, data",,6,Roof,,1900 / 2100,,72.32785,Rana.Christie30@T-Mobile.com,,,37.78747189,-122.4349163
+Tmobile,SF23285,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,42.145,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7586,-122.4
+Tmobile,LSF1050BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,33,T-Mobile NOC,,Small cell,37.731834,-122.395551
+Tmobile,SF53449,,1731,025,NC-2,105-A,Commercial,,"voice, video, data",,6,Indoor,,700 / 1900 / 2100,,84.2672,Rana.Christie30@T-Mobile.com,,,37.76378200,-122.47801100
+Tmobile,SF03258,,0624,025/026,RM-3,105-D,Residential,,"voice, video, data",,2,Internal,,1900 / 2100,,25.0301,Rana.Christie30@T-Mobile.com,,,37.79169411,-122.424416
+Tmobile,SF23254,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,55.1338,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.75399159,-122.476558
+Tmobile,SF13290,,530,40,Union NCD,40-X,Mixed-Use,,"voice, video, data",,1,Internal,,1900 / 2100,,38.2689,Rana.Christie30@T-Mobile.com,,,37.79818388,-122.4290177
+Tmobile,SF72014,,"0676/033
+0676/072-073",,"RM-3, NCD","50-X, 40-X",Building,,"voice, video, data",,3,Rooftop,,1900 / 2100,,242,Rana.Christie30@T-Mobile.com,,,37.78672,-122.43032
+Tmobile,LSF1052BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.7358886,-122.3943955
+Tmobile,LSF1050BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.733093,-122.394473
+Tmobile,SF03458,,5418,002D,M-1,65-J,light Industrial,,"voice, video, data",,6,Roof,,1900 / 2100,,77.31345,Rana.Christie30@T-Mobile.com,,,37.72836044,-122.3952219
+Tmobile,LSF1052BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.736192,-122.393007
+Tmobile,SF03139,,2522,010,RH-1(D),40-X,Quasi-Public,,"voice, video, data",,3,Roof,,1900 / 2100,,67.2768,Rana.Christie30@T-Mobile.com,,,37.73444411,-122.4916941
+Tmobile,SF03032,,5280,001,P,65-J,Public,,"voice, video, data",,3,Internal,,1900 / 2100,,51.33585,Rana.Christie30@T-Mobile.com,,,37.73991633,-122.393583
+Tmobile,SF13016,,6934,1,NC-2,40-X,Commercial,,"voice, video, data",,1,Internal,,1900 / 2100,,26.2641,Rana.Christie30@T-Mobile.com,,,37.7244945,-122.4600857
+Tmobile,SF23239,,1626,001,NC-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,37.33025,Rana.Christie30@T-Mobile.com,,,37.77649534,-122.476911
+Tmobile,LSF1052BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.734937,-122.392752
+Tmobile,SF53321,,ROW,ROW,P (Public),OS,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,42.637,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.75574900,-122.48726000
+Tmobile,SF13109,,0621,023,POLK -NCD,65-A,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,66.2473,Rana.Christie30@T-Mobile.com,,,37.77968333,-122.4135889
+Tmobile,LSF1052BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.736299,-122.391512
+Tmobile,SF1041BA_61,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.746412,-122.42021
+Tmobile,LSF1041BA61,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.746412,-122.42021
+Tmobile,SF03264,,0702,004,NC-3,65-A,Commercial,,"voice, video, data",,1,Basement,,1900 / 2100,,51.2577,Rana.Christie30@T-Mobile.com,,,37.78463856,-122.4331104
+Tmobile,SF13089,,700,18,NC-3,50-X,Hotel,,"voice, video, data",,1 (tripletree),Roof,,1900 / 2100,,44.31665,Rana.Christie30@T-Mobile.com,,,37.77186246,-122.4321043
+Tmobile,SF43399,,Mission Bay UCSF Development,Not Available,MB-RA,90-x/160-x,Commercial,,"voice, video, data",,9,Internal,,1900 / 2100 / 700,,77.31345,Rana.Christie30@T-Mobile.com,,,37.7684,-122.394
+Tmobile,SF13158,,4099,001,R-3,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,24.2633,Rana.Christie30@T-Mobile.com,,,37.75978445,-122.3975365
+Tmobile,SF43417,,ROW,ROW,NC-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,46.8766,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7444,-122.427
+Tmobile,SF63444,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,48.1146,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.756597,-122.506903
+Tmobile,SF1001BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.771965,-122.416888
+Tmobile,LSF1001BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.771965,-122.416888
+Tmobile,SF23246,,1888,007,R-1,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,29.1234,Rana.Christie30@T-Mobile.com,,,37.75684458,-122.501389
+Tmobile,LSF1051BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.733792,-122.390445
+Tmobile,SF33296A,,8711,007,MB-RA,MB-RA,UCSF mission capmus,,"voice, video, data",,,Roof,,1900 / 2100,,157.47665,Rana.Christie30@T-Mobile.com,,UCSF,37.769812,-122.389531
+Tmobile,LSF1051BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.735135,-122.389734
+Tmobile,SF70349,,0863,005,C-3-G,120-F,Commercial,,"voice, video, data",,3,Internal,,1900 / 2100,,82.0872335,Rana.Christie30@T-Mobile.com,,,37.775,-122.42
+Tmobile,SF1001BA_41,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.771493,-122.41465
+Tmobile,LSF1001BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,27.5,T-Mobile NOC,,Small cell,37.771493,-122.41465
+Tmobile,SF70359A,,3506,001,C-3-G,120/400-R-2,General,,"voice, video, data",,10,Roof,,1900 / 2100 / 700,,143.37265,Rana.Christie30@T-Mobile.com,,,37.775047,-122.418713
+Tmobile,SF23278,,6418,065,NC-1,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,39.1274,Rana.Christie30@T-Mobile.com,,,37.7121929,-122.4316296
+Tmobile,LSF1051BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.734429,-122.389883
+Tmobile,SF03016,,1865,004,RH-2,40-X,Quasi-Public,,"voice, video, data",,6,Roof,,1900 / 2100,,53.1837,Rana.Christie30@T-Mobile.com,,,37.759243,-122.477438
+Tmobile,SF03128,,2400,050,NC-2,65-A,Mixed-Use,,"voice, video, data",,6,Internal,,1900 / 2100,,54.2005,Rana.Christie30@T-Mobile.com,,,37.74255522,-122.4825271
+Tmobile,SF53310,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,44.1458,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7453,-122.432
+Tmobile,SF53430,,1734,001,RM-1,40-X,Residential,,"voice, video, data",,6,Indoor,,1900 / 2100 / 700,,92.30305,Rana.Christie30@T-Mobile.com,,,37.76534700,-122.47426700
+Tmobile,SF43588,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,43.621,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7588,-122.5
+Tmobile,SF03010,,0670,017,RC-4,130-V,Commercial,,"voice, video, data",,6,Basement,,700 / 1900 / 2100,,63.30785,Rana.Christie30@T-Mobile.com,,,37.788333,-122.4216938
+Tmobile,SF13327,,2380,42,M-1,65-J,Industrial,,"voice, video, data",,3,Ground,,700 / 1900 / 2100,,33.3125,Rana.Christie30@T-Mobile.com,,,37.752326,-122.393409
+Tmobile,SF13993,,3510,49,C-3-G,85-X,Commercial,,"voice, video, data",,6,Rooftop,,700 / 1900 / 2100,,78.2648,Rana.Christie30@T-Mobile.com,,,37.77486681,-122.416218
+Tmobile,SF70041,,4279,028,M-1,65J,Industrial,,"voice, video, data",,3,Ground,,1900 / 2100,,34.8391,Rana.Christie30@T-Mobile.com,,,37.750869,-122.403912
+Tmobile,SF13091,,1232,4,Haight NCD,40-X,Mixed-Use,,"voice, video, data",,2,Internal,,1900 / 2100,,43.0045,Rana.Christie30@T-Mobile.com,,,37.76423656,-122.417176
+Tmobile,SF03003,,0498,010,RC-3,65-A,Mixed-Use,,"voice, video, data",,6,Roof,,1900 / 2100,,57.1853,Rana.Christie30@T-Mobile.com,,,37.80138889,-122.4250827
+Tmobile,SF03151,,0187,007,RM-3,65-A,Residential,,"voice, video, data",,1,Roof,,1900 / 2100,,60.2449,Rana.Christie30@T-Mobile.com,,,37.794035,-122.416594
+Tmobile,SF13147,,4003,033,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Basement,,1900 / 2100,,39.1274,Rana.Christie30@T-Mobile.com,,,37.76272744,-122.396695
+Tmobile,SF13014,,1798,59,RH-2,40-X,Church,,"voice, video, data",,1,Ground,,1900 / 2100,,30.0157,Rana.Christie30@T-Mobile.com,,,37.76042857,-122.50275
+Tmobile,SF03022,,3923,002,M-1,40-X,Industrial,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,83.31585,Rana.Christie30@T-Mobile.com,,,37.76861044,-122.4109167
+Tmobile,SF1001BA_21,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.77337,-122.411304
+Tmobile,LSF1001BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,2 x 5W on 1900 / 2 x 5W on 2100,30,T-Mobile NOC,,Small cell,37.775161,-122.413136
+Tmobile,LSF1001BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.77337,-122.411304
+Tmobile,LSF1052BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.737373,-122.393625
+Tmobile,LSF1023BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.730534,-122.381371
+Tmobile,SF43413,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,46.8766,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7624,-122.471
+Tmobile,SF43569,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,52.1162,Ryan.Wunsch1@T-Mobile.com,,,37.7616,-122.447
+Tmobile,SF23237,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,37.6514,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7639,-122.468
+Tmobile,SF03282,,0355,010,C-3-O,80-X,Mixed-Use,,"voice, video, data",,3,Internal,,1900 / 2100 / 700,,14.0093,Rana.Christie30@T-Mobile.com,,,37.77783267,-122.4163056
+Tmobile,SF03278,,28,015,C-2,40-X,Commercial,,"voice, video, data",,6,Roof,,1900 / 2100,,51.33585,Rana.Christie30@T-Mobile.com,,,37.805644,-122.417216
+Tmobile,SF03451,,3729,001,SLR,50-X,Industrial,,"voice, video, data",,1,Basement,,1900 / 2100,,31.1242,Rana.Christie30@T-Mobile.com,,,37.77605489,-122.4115833
+Tmobile,SF43584,,ROW,ROW,RC-3,65-A,Utility Pole,,"voice, video, data",,1,Basement,,1900 / 2100,,26.1386,Rana.Christie30@T-Mobile.com,,,37.7946,-122.411
+Tmobile,LSF1040BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.751025,-122.41297
+Tmobile,SF13102,,3758,047,SLI,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,43.129,Rana.Christie30@T-Mobile.com,,,37.79176243,-122.4207874
+Tmobile,SF13113,,0836,001,P,None,Building,,"voice, video, data",,N/A,Indoor,,1900 / 2100,,N/A,Rana.Christie30@T-Mobile.com,,Civic Center,37.77968531,-122.413591
+Tmobile,SF03284,,4580,001,NC-2,40X,Mixed Use,,"voice, video, data",,2,Ground,,1900 / 2100,,47.3016,Rana.Christie30@T-Mobile.com,,,37.73736078,-122.3801104
+Tmobile,LSF1022BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.732716,-122.379643
+Tmobile,SF03152,,0253,020,RM-4,65-A,Commercial,,"voice, video, data",,4,Roof,,700 / 1900 / 2100,,52.31985,Rana.Christie30@T-Mobile.com,,,37.79138856,-122.4126389
+Tmobile,SF13325,,7080,24,RH-1,40-X,Church,,"voice, video, data",,3,Outdoors,,1900 / 2100,,79.2816,Rana.Christie30@T-Mobile.com,,,37.7173733,-122.471858
+Tmobile,SF23230,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,45.3678,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.77940100,-122.45994200
+Tmobile,SF03145,,3751,034,SLR,50-X,Industrial,,"voice, video, data",,2,Ground,,1900 / 2100,,15.0261,Rana.Christie30@T-Mobile.com,,,37.77674933,-122.4076389
+Tmobile,SF13159,,4764,2,M-1,40-X,Industrial,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,35.32945,Rana.Christie30@T-Mobile.com,,,37.726398,-122.380531
+Tmobile,SF03182,,N/A,N/A,N/A,N/A,Building,,"voice, video, data",,2,Roof,,1900 / 2100,,25,Rana.Christie30@T-Mobile.com,,Airport,37.625359,-122.377074
+Tmobile,SF03294,,0251,023,POLK -NCD,65-A,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,56.905,Rana.Christie30@T-Mobile.com,,,37.79088856,-122.4172493
+Tmobile,SF23224,,0719,012,RM-4,65-E,Mixed Use,,"voice, video, data",,1,Roof,,1900 / 2100,,41.33185,Rana.Christie30@T-Mobile.com,,,37.7845216,-122.422468
+Tmobile,SF03024,,0774,021,RM-4/NC-3,40-X/50-X,Residential,,"voice, video, data",,6,Roof,,700 / 1900 / 2100,,139.30545,Rana.Christie30@T-Mobile.com,,,37.77888822,-122.4319438
+Tmobile,SF1023BA_41,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.729277,-122.381132
+Tmobile,LSF1023BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.729277,-122.381132
+Tmobile,SF13099,,5684,18,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,40.1949,Rana.Christie30@T-Mobile.com,,,37.7745622,-122.4074545
+Tmobile,LSF1005BA61,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.784656,-122.41943
+Tmobile,LSF1030BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.755042,-122.423186
+Tmobile,SF23279,,6409,010,RH-1,65-A,mixed use,,"voice, video, data",,1,Roof,,1900 / 2100,,43.2545,Rana.Christie30@T-Mobile.com,,,37.71588163,-122.439646
+Tmobile,SF70039,,3725,087,C3-S,160F,Commercial,,"voice, video, data",,6,Roof,,1900 / 2100,,114.058572,Rana.Christie30@T-Mobile.com,,,37.7808,-122.408
+Tmobile,SF70072,,0300,022,RC-4,80-A,Mixed Use,,"voice, video, data",,6,Basement,,1900 / 2100,,112.31105,Rana.Christie30@T-Mobile.com,,,37.7881,-122.416
+Tmobile,SF13141,,5695,024,NCS,40-X,Commercial,,"voice, video, data",,N/A,Ground,,1900 / 2100,,40.1132,Rana.Christie30@T-Mobile.com,,Crown-Owned DAS,37.7272,-122.417
+Tmobile,SF23292,,6004,067,NC-1,40X,Church,,"voice, video, data",,1,Roof,,1900 / 2100,,24.1378,Rana.Christie30@T-Mobile.com,,,37.724521,-122.424194
+Tmobile,SF23263,,3780,079,SLI,40X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,36.2681,Rana.Christie30@T-Mobile.com,,,37.773356,-122.405304
+Tmobile,SF13095,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,49.1314,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.71912000,-122.40874800
+Tmobile,SF03452,,3753,145,RSD,40/80-B,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,52.1997,Rana.Christie30@T-Mobile.com,,,37.779916,-122.4036389
+Tmobile,SF03049,,2347,031,NC-2,40-X,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,18.2609,Rana.Christie30@T-Mobile.com,,,37.74336078,-122.4754993
+Tmobile,SF23200,,0179,016,CRNC,65-N,Medical,,"voice, video, data",,7,Basement,,1900 / 2100,,58.32225,Rana.Christie30@T-Mobile.com,,,37.79578000,-122.40972800
+Tmobile,SF13084,,3780,006,M2,40-X,Commercial,,"voice, video, data",,6,Rooftop,,1900 / 2100,,84.33265,Rana.Christie30@T-Mobile.com,,,37.77194515,-122.4050228
+Tmobile,SF70569,,4645,014,NC-2,40-X,Commercial,,"voice, video, data",,3,Ground,,1900 / 2100,,24.052668,Rana.Christie30@T-Mobile.com,,,37.732006,-122.375317
+Tmobile,SF23214,,3705,042,C-3-R,"120-X, 16-S",Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.78417359,-122.407087
+Tmobile,SF23213,,ROW,ROW,C-2,65-X,Commercial,,"voice, video, data",,9,Roof,,700 / 1900 / 2100,,92.30305,Rana.Christie30@T-Mobile.com,,,37.7989,-122.401
+Tmobile,SF03279,,0281,002A,RC-4,80-A,Residential,,"voice, video, data",,1 (tripletree),Internal,,1900 / 2100,,50,Rana.Christie30@T-Mobile.com,,,37.78866633,-122.4137222
+Tmobile,SF13324,,7299,005,P,40X & 130D,Building,,"voice, video, data",,9,Roof,,1900 / 2100,,164,Rana.Christie30@T-Mobile.com,,,37.72355,-122.48399
+Tmobile,SF23264,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900,,46.1466,Rana.Christie30@T-Mobile.com,,,37.7219,-122.461
+Tmobile,SF03030,,0761,028,NC-3,50-X,Office,,"voice, video, data",,2,Roof,,1900 / 2100,,54.2005,Rana.Christie30@T-Mobile.com,,,37.780916,-122.4235549
+Tmobile,LSF1015BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.776199,-122.428896
+Tmobile,SF13116,,0208,024,C-3-O,40-X,Commercial,,"voice, video, data",,8,Roof,,1900,,306.7168,Rana.Christie30@T-Mobile.com,,,37.7951,-122.404
+Tmobile,LSF1005BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.785053,-122.418499
+Tmobile,SF03104,,0195,001,C-2,65-A,Office,,"voice, video, data",,9,Roof,,1900 / 2100 / 700,,77.1933,Rana.Christie30@T-Mobile.com,,,37.79613856,-122.4036389
+Tmobile,SF13005,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,43.621,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.77486111,-122.465031
+Tmobile,SF03298,,6338,024,p,40-X,Public,,"voice, video, data",,3,Ground,,1900 / 2100,,39.2984,Rana.Christie30@T-Mobile.com,,,37.71638889,-122.4317216
+Tmobile,SF23242,,1617,032A,NC-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,29.1234,Rana.Christie30@T-Mobile.com,,,37.77585597,-122.4872944
+Tmobile,SF23240,,1653,001,NC-1,40-X,Commercial,,"voice, video, data",,1,Garage,,1900 / 2100,,31.1242,Rana.Christie30@T-Mobile.com,,,37.77497186,-122.468174
+Tmobile,SF53999,,ROW,ROW,NC-2,40-X,Utility Pole,,"voice, video, data",,1,Roof,,1900 / 2100,,40.115208,Rana.Christie30@T-Mobile.com,,,37.7761,-122.493
+Tmobile,LSF1006BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.78438,-122.417163
+Tmobile,SF03267,,1228,009,RM-2,50-X,Residential,,"voice, video, data",,1,Internal,,1900 / 2100,,53.2585,Rana.Christie30@T-Mobile.com,,,37.76980489,-122.4532778
+Tmobile,LSF1014BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,26,T-Mobile NOC,,Small cell,37.777377,-122.42633
+Tmobile,LSF1005BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.785423,-122.415749
+Tmobile,LSF1014BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.776464,-122.426766
+Tmobile,SF03011,,3750,088,C-3-S,200-S,Quasi-Public,,"voice, video, data",,2,Roof,,1900 / 2100,,77.77265,Rana.Christie30@T-Mobile.com,,,37.78502744,-122.3964441
+Tmobile,SF90341E,,3789,008,MUO,65-X,Mixed-Use,,"voice, video, data",,,Roof,,1900 / 2100,,100.40465,Rana.Christie30@T-Mobile.com,,,37.78145,-122.392162
+Tmobile,SF73106,,1300,001,N/A,N/A,Public,,"voice, video, data",,6,Outdoors,,700 / 1900 / 2100,,62.32385,Rana.Christie30@T-Mobile.com,,Presidio,37.80274168,-122.458389
+Tmobile,SF93356C,,0762,026-479,RC-4,130-V,Bldg,,"voice, video, data",,9,indoor,,"199, 700",,40,Rana.Christie30@T-Mobile.com,,,37.781169,-122.421352
+Tmobile,LSF1006BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.783191,-122.418134
+Tmobile,SF23212,,0173,001,C-2,84-E,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,32.2665,Rana.Christie30@T-Mobile.com,,,37.797619,-122.399777
+Tmobile,SF13097,,3116,28,NC-1,32-X,Mixed-Use,,"voice, video, data",,2,Ground,,1900 / 2100,,25.014356,Rana.Christie30@T-Mobile.com,,,37.74668641,-122.4584262
+Tmobile,SF23270,,2695,016,Castro NCD,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,44.1458,Rana.Christie30@T-Mobile.com,,,37.7593744,-122.4348449
+Tmobile,SF13023,,6745,044,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,37.2521,Rana.Christie30@T-Mobile.com,,,37.73351082,-122.4338499
+Tmobile,SF23272,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,52.8462,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7236,-122.416
+Tmobile,SF13093,,3571,015,CM,50-X,Commercial,,"voice, video, data",,3,Roof,,700 / 1900 / 2100,,37.205935,Rana.Christie30@T-Mobile.com,,,37.73927042,-122.4667428
+Tmobile,SF03006,,0270,037,C-3-R,80-130-F,Office,,"voice, video, data",,5,Roof,,1900 / 2100,,91.1989,Rana.Christie30@T-Mobile.com,,,37.79143813,-122.4053489
+Tmobile,SF13453,,4007,2,M-1,40-X,Industrial,,"voice, video, data",,4,Ground,,1900 / 2100,,60.2904,Rana.Christie30@T-Mobile.com,,,37.76237935,-122.400899
+Tmobile,SF53572,,3708,O57,C-3-O,500-S,Commercial,,"voice, video, data",,9,Internal,,700 / 1900 / 2100,,357.22865,Rana.Christie30@T-Mobile.com,,,37.79004400,-122.39997500
+Tmobile,SF03147,,0240,003,C-3-O,300-S,Office,,"voice, video, data",,4,Internal,,1900 / 2100,,20.4072,Rana.Christie30@T-Mobile.com,,,37.79364174,-122.4038308
+Tmobile,SF70557,,3918,010,PDR-1-D,40-X,Building,,"voice, video, data",,3,Roof,,1900 / 2100,,48,Rana.Christie30@T-Mobile.com,,,37.7675,-122.406
+Tmobile,SF13002,,3776,041,SLI,50-X,Commercial,,"voice, video, data",,3,Roof,,1900 / 2100,,59.2736,Rana.Christie30@T-Mobile.com,,,37.7801,-122.3969
+Tmobile,SF03271,,0290,012,C-3-O,500-S,Commercial,,"voice, video, data",,4,Basement,,1900 / 2100,,21.0285,Rana.Christie30@T-Mobile.com,,,37.79061078,-122.4001944
+Tmobile,SF70028,,0271,027,C-3-G,65A,Commercial,,"voice, video, data",,6,Roof,,1900 / 2100,,120.105292,Rana.Christie30@T-Mobile.com,,,37.7908,-122.406
+Tmobile,LSF1006BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.784548,-122.415048
+Tmobile,SF03144,,3569,049,VALENCIA,50-X,Mixed-Use,,"voice, video, data",,2,Basement,,1900 / 2100,,45.0053,Rana.Christie30@T-Mobile.com,,,37.76480556,-122.4217216
+Tmobile,SF13009,,1263,6,NC-1,40-X,Mixed-Use,,"voice, video, data",,3,Basement,,1900 / 2100,,50.141877,Rana.Christie30@T-Mobile.com,,,37.766484,-122.453365
+Tmobile,SF03577,,3778,023,SLI,50-X,Industrial,,"voice, video, data",,2,Roof,,1900 / 2100,,15.1245,Rana.Christie30@T-Mobile.com,,,37.77602711,-122.4023333
+Tmobile,SF23236,,3587,046,NC-1,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,50.4705,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.76156534,-122.4256777
+Tmobile,LSF1061BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.786037,-122.389276
+Tmobile,SF13115,,0011,008,C-2,40-X,Commercial,,"voice, video, data",,8,Roof,,1900 / 2100 / 700,,51.33585,Rana.Christie30@T-Mobile.com,,,37.8077,-122.418
+Tmobile,SF23223,,0672,017,NC-3,80-A,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,41.06945,Rana.Christie30@T-Mobile.com,,,37.78722338,-122.4251952
+Tmobile,SF23255,,ROW,ROW,RH-1 (D),40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,50.6402,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7476,-122.465
+Tmobile,SF13007A,,1756,001,B&M,MB,commercial,,"voice, video, data",,10,roof,,700 / 1900 / 2100,,"72, 92",Rana.Christie30@T-Mobile.com,,UCSF,37.7637,-122.45825
+Tmobile,SF70026,,,,RH-1(d),40-X,Building,,"voice, video, data",,4,Basement,,1900 / 2100,,50,Rana.Christie30@T-Mobile.com,,,37.74670002,-122.459
+Tmobile,SF13011,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900,,47.6226,Rana.Christie30@T-Mobile.com,,,37.7174,-122.463
+Tmobile,SF53272,,ROW,ROW,North Beach,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,38.0065,Rana.Christie30@T-Mobile.com,,,37.7996,-122.409
+Tmobile,SF1015BA_11,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.774411,-122.426958
+Tmobile,SF03287,,3748,031 & 012,RC-4,220-R,Commercial,,"voice, video, data",,7,Roof,,700 / 1900 / 2100,,78.1023,Rana.Christie30@T-Mobile.com,,,37.786333,-122.3929719
+Tmobile,LSF1015BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.774411,-122.426958
+Tmobile,SF1014BA_21,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.775716,-122.425103
+Tmobile,LSF1014BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.775716,-122.425103
+Tmobile,SF03580,,1215,016,NC-2,40-X,Commercial,,"voice, video, data",,6,Internal,,1900 / 2100,,67.93265,Rana.Christie30@T-Mobile.com,,,37.77336044,-122.4376386
+Tmobile,SF03415,,1463,001,NC-3,40-X,Quasi-Public,,"voice, video, data",,6,Roof,,700 / 1900 / 2100,,58.32225,Rana.Christie30@T-Mobile.com,,,37.78155489,-122.4914719
+Tmobile,SF13166,,3554,029,NCT,40-X,Hotel,,"voice, video, data",,N/A,Basement,,1900 / 2100,,30.9792,Rana.Christie30@T-Mobile.com,,Extenet-owned DAS,37.7664,-122.422
+Tmobile,SF23268,,3554,029,NCT,40-X,Hotel,,"voice, video, data",,2,Basement,,1900 / 2100,,28.9784,Rana.Christie30@T-Mobile.com,,Extenet-owned DAS,37.7456,-122.44
+Tmobile,SF23290,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,47.8606,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7355,-122.418
+Tmobile,BA10040,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,2,Pole,,1900 / 2100,,51.075,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.7112,-122.403
+Tmobile,SF43598,,3733,107,C-3-S,130-F,Residential,,"voice, video, data",,9,Outdoors,,700 / 1900 / 2100,,144.29105,Rana.Christie30@T-Mobile.com,,,37.78093200,-122.40390100
+Tmobile,SF03578,,1441,035,INNER CLEMENT,40-X,Quasi-Public,,"voice, video, data",,6,Roof,,1900 / 2100,,71.31105,Rana.Christie30@T-Mobile.com,,,37.78111044,-122.4678327
+Tmobile,SF70045,,3966,002,PDR-1-G,68-X,Building,,"voice, video, data",,6,Roof,,1900 / 2100,,67,Rana.Christie30@T-Mobile.com,,,37.7644,-122.412
+Tmobile,SF53900,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,54.117,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7223,-122.42785
+Tmobile,SF43374,,3744,002,RH-DTR,84-X/105-X,Commercial,,"voice, video, data",,1,Internal,,1900 / 2100,,14.9896,Rana.Christie30@T-Mobile.com,,Google In Building site.,37.7895,-122.39
+Tmobile,SF53573,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900,,47.4981,Rana.Christie30@T-Mobile.com,,,37.71811600,-122.46638600
+Tmobile,SF13176,,294,O13,R-1,80-130F,Tourist Hotel/Motel,,"voice, video, data",,9,Internal,,1900 / 2100 / 700,,199.29665,Rana.Christie30@T-Mobile.com,,,37.78914300,-122.40665000
+Tmobile,SF23262,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900,,51.1322,Rana.Christie30@T-Mobile.com,,,37.7317,-122.442
+Tmobile,SF03076,,0786,TBD,P,96-X,Public,,"voice, video, data",,6,Shelter,,1900 / 2100,,51.2157,Rana.Christie30@T-Mobile.com,,,37.7682,-122.4174
+Tmobile,LSF1061BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.789354,-122.391677
+Tmobile,SF03270,,0261,015,C-3-O,400-S,Office,,"voice, video, data",,2,Basement,,1900 / 2100,,21.0285,Rana.Christie30@T-Mobile.com,,,37.793083,-122.4000556
+Tmobile,SF03283,,0816,008,HAYES NCD,50-X,Mixed-Use,,"voice, video, data",,2,Internal,,1900 / 2100,,26.0141,Rana.Christie30@T-Mobile.com,,,37.77605489,-122.4226938
+Tmobile,SF13129,,1365,011,NC-1,40-x,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,38.290784,Rana.Christie30@T-Mobile.com,,,37.78302506,-122.4598646
+Tmobile,SF53560,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,54.006932,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7295,-122.407
+Tmobile,LSF1050BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,33,T-Mobile NOC,,Small cell,37.731136,-122.394579
+Tmobile,SF03026,,3910,001,M-2,40-X,Industrial,,"voice, video, data",,6,Penthouse,,1900 / 2100,,72.32785,Rana.Christie30@T-Mobile.com,,,37.76886044,-122.4047222
+Tmobile,SF43585,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,40.4324,Ryan.Wunsch1@T-Mobile.com,,,37.7536,-122.484
+Tmobile,LSF1061BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.78882,-122.393025
+Tmobile,SF03158,,2988A,014,WEST PORTAL,26-X,Residential,,"voice, video, data",,1,Internal,,1900 / 2100,,44.2713,Rana.Christie30@T-Mobile.com,,,37.73844,-122.469002
+Tmobile,SF13001,,0309,021,C3-R,80-130F,Commercial,,"voice, video, data",,1,Roof,,1900 / 2100,,69.2776,Rana.Christie30@T-Mobile.com,,,37.7883,-122.4066
+Tmobile,SF13090,,0861,001,NC-2,40-X,Mixed-Use,,"voice, video, data",,1,Roof,,1900 / 2100,,73.31185,Rana.Christie30@T-Mobile.com,,,37.77035756,-122.4454118
+Tmobile,SF03288,,3736,006,C-3-O,200-S,Office,,"voice, video, data",,3,Roof,,1900 / 2100,,88.2688,Rana.Christie30@T-Mobile.com,,,37.787703,-122.395716
+Tmobile,SF13144,,ROW,ROW,RM-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,56.1178,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.725,-122.435
+Tmobile,SF03103,,0236,006,C-3-0,75-X,Office,,"voice, video, data",,6,Roof,,1900 / 2100,,98.30545,Rana.Christie30@T-Mobile.com,,,37.79383,-122.398578
+Tmobile,SF23288,,ROW,ROW,RH-2,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,55.9933,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7422,-122.433
+Tmobile,SF03153,,0345,004,C-3-G,80-X,Quasi-Public,,"voice, video, data",,6,Roof,,1900 / 2100,,116.28,Rana.Christie30@T-Mobile.com,,,37.78194378,-122.41425
+Tmobile,SF03253,,0287,011,C-3-0,80-130-F,Office,,"voice, video, data",,4,Internal,,1900 / 2100,,21.0285,Rana.Christie30@T-Mobile.com,,,37.78972189,-122.4039722
+Tmobile,SF03281,,0326,001,C-2,40-X,Commercial,,"voice, video, data",,3,Internal,,1900 / 2100 / 700,,53.2712,Rana.Christie30@T-Mobile.com,,,37.78630522,-122.4081667
+Tmobile,SF13088,,0106,001,C-2,65-E,Mixed Use,,"voice, video, data",,3,Roof,,700 / 1900 / 2100,,92.2704,Rana.Christie30@T-Mobile.com,,,37.80218838,-122.402992
+Tmobile,SF70038,,3717,001,C-3-O,160-F,Commercial,,"voice, video, data",,6,Penthouse,,1900 / 2100,,256.072476,Rana.Christie30@T-Mobile.com,,,37.7908,-122.392
+Tmobile,SF70501,,0262,021,C-3-O,400-S,Building,,"voice, video, data",,3,Roof,,1900 / 2100,,230,Rana.Christie30@T-Mobile.com,,,37.79304,-122.399036
+Tmobile,LSF1061BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.787401,-122.39101
+Tmobile,SF53540,,ROW,ROW,RM-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,60.6442,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.786,-122.482
+Tmobile,SF03035,,3803,005,M-2,90-X,Office,,"voice, video, data",,4,Roof,,1900 / 2100,,22.308,Rana.Christie30@T-Mobile.com,,,37.775666,-122.3924719
+Tmobile,SF23291,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,48.1474,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.73849200,-122.43396400
+Tmobile,SF13083,,5369,65,M-1,40-X,Commercial,,"voice, video, data",,6,Ground,,1900 / 2100,,24.3088,Rana.Christie30@T-Mobile.com,,,37.73661123,-122.4045566
+Tmobile,SF53450,,3987,007,UMU,40-X,Commercial,,"voice, video, data",,4,Roof,,700 / 1900 / 2100,,52.2872,Rana.Christie30@T-Mobile.com,,,37.76465500,-122.39454100
+Tmobile,LSF1007BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.78309,-122.411368
+Tmobile,SF03274,,7147,032,NC-1,40-X,Commercial,,"voice, video, data",,3,Ground,,700 / 1900 / 2100,,53,Rana.Christie30@T-Mobile.com,,,37.71122222,-122.4561667
+Tmobile,SF1030BA_11,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.755077,-122.420878
+Tmobile,SF13096,,2989B,32,W. Portal NCD,40-X,Commercial,,"voice, video, data",,1,Ground,,1900 / 2100,,38.1434,Rana.Christie30@T-Mobile.com,,DAS anchor id,37.73122823,-122.4485863
+Tmobile,SF23283,,ROW,ROW,P (Public),OS,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,16.3056,Rana.Christie30@T-Mobile.com,,,37.72717000,-122.50350200
+Tmobile,SF03584,,0136,005,C-2,40-X,Commercial,,"voice, video, data",,2,Roof,,1900 / 2100,,47.3016,Rana.Christie30@T-Mobile.com,,,37.80038889,-122.4012778
+Tmobile,SF43645,,ROW,ROW,RH-1,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,61.1362,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.7469,-122.411
+Tmobile,SF03023,,3706,093,C-3-R,400-1,Office,,"voice, video, data",,6,Roof,,1900 / 2100 /700,,44.97265,Rana.Christie30@T-Mobile.com,,,37.78619411,-122.4025
+Tmobile,LSF1030BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.75372,-122.421662
+Tmobile,LSF1023BA21,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.73175,-122.381548
+Tmobile,SF13027,,3711,019,C3-O,400-S,Parking Garage,,"voice, video, data",,1,Roof,,1900 / 2100,,33.2505,Rana.Christie30@T-Mobile.com,,,37.79212182,-122.395445
+Tmobile,SF1050BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.732685,-122.393373
+Tmobile,LSF1050BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.732685,-122.393373
+Tmobile,SF13010,,,,,,Public,,"voice, video, data",,3,Ground,,700 / 1900 / 2100,,80,Rana.Christie30@T-Mobile.com,,Presidio,,
+Tmobile,SF1050BA_51,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.730133,-122.393509
+Tmobile,LSF1050BA51,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,20,T-Mobile NOC,,Small cell,37.730133,-122.393509
+Tmobile,LSF1007BA41,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.780612,-122.415398
+Tmobile,LSF1022BA31,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.73174,-122.37949
+Tmobile,SF03064,,6956,023,NC-3,65-A,Nbr-Com,,"voice, video, data",,4,Roof,,1900 / 2100,,71.2784,Rana.Christie30@T-Mobile.com,,,37.721916,-122.4378608
+Tmobile,SF93912,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF93913,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF93914,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF93915,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF93916,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF93917,,3794,026,M-2,150X,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,DAS,Rana.Christie30@T-Mobile.com,,DAS,37.778674,-122.389276
+Tmobile,SF43579,,ROW,ROW,Valencia St NCT,55-X,Utility Pole,,"voice, video, data",,1,Pole,,1900 / 2100,,51.1322,Rana.Christie30@T-Mobile.com,,DAS non-anchor id,37.76230700,-122.42246600
+Tmobile,SF03090,,3180,001,P/NC-2,40-X/65-A,Public,,"voice, video, data",,6,Ground,,1900 / 2100,,60.32305,Rana.Christie30@T-Mobile.com,,,37.72355489,-122.4528611
+Tmobile,SF23293,,5548,003,RH-1 (D),40-X,Commercial,,"voice, video, data",,6,Internal,,1900 / 2100,,41.68755,Rana.Christie30@T-Mobile.com,,,37.7431,-122.415
+Tmobile,LSF1060BA11,,ROW,ROW,NA,NA,Pole,,LTE1900 / LTE2100,,1,On pole,,15MHz of 1900 / 20MHz of 2100,,30,T-Mobile NOC,,Small cell,37.793598,-122.392895
+Tmobile,SF03027,,2636,003,RM-4,40-X,Residential,,"voice, video, data",,6,Roof,,700 / 1900 / 2100,,123.29905,Rana.Christie30@T-Mobile.com,,,37.759098,-122.462983
+Tmobile,SF03148,,0234,017,C-3-O,200-S,Commercial,,"voice, video, data",,2,Ground,,1900 / 2100,,10.004,Rana.Christie30@T-Mobile.com,,,37.79394411,-122.3958052
+Tmobile,SF03146,,NA,NA,NA,NA,Office,,"voice, video, data",,1 (tripletree),Internal,,1900 / 2100,,26.9981,Rana.Christie30@T-Mobile.com,,,37.784333,-122.40875
+Tmobile,SF03582,,3513,001,C-M,105-E,Quasi-Public,,"voice, video, data",,3,Roof,,1900 / 2100,,75.28,Rana.Christie30@T-Mobile.com,,,37.77136044,-122.4204993
+Tmobile,SF13199,,ROW,ROW,P (Public),40-X,Utility Pole,,"voice, video, data",,3,Shelter,,700 / 1900 / 2100,,29.2944,Rana.Christie30@T-Mobile.com,,Presidio,37.7983,-122.469
+Tmobile,SF0001BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,pole,,2100,,27,T-Mobile NOC,,Small cell,37.792692,-122.411092
+Tmobile,SF0001BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,pole,,2100,,26,T-Mobile NOC,,Small cell,37.792167,-122.408591
+Tmobile,SF0001BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,pole,,2100,,27,T-Mobile NOC,,Small cell,37.791003,-122.410581
+Tmobile,SF0002BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,pole,,2100,,28,T-Mobile NOC,,Small cell,37.791167,-122.407964
+Tmobile,SF0002BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,pole,,2100,,27,T-Mobile NOC,,Small cell,37.793625,-122.401261
+Tmobile,SF0002BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26.5,T-Mobile NOC,,Small cell,37.789647,-122.408772
+Tmobile,SF0003BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.783489,-122.409264
+Tmobile,SF0003BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.785019,-122.411284
+Tmobile,SF0003BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26,T-Mobile NOC,,Small cell,37.785594,-122.405767
+Tmobile,SF0004BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.785203,-122.400439
+Tmobile,SF0004BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,25.5,T-Mobile NOC,,Small cell,37.783308,-122.399225
+Tmobile,SF0004BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.77785,-122.403247
+Tmobile,SF0005BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.792022,-122.398447
+Tmobile,SF0005BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27.6,T-Mobile NOC,,Small cell,37.78683,-122.399906
+Tmobile,SF0005BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27.2,T-Mobile NOC,,Small cell,37.787017,-122.398694
+Tmobile,SF0006BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26.7,T-Mobile NOC,,Small cell,37.790331,-122.398153
+Tmobile,SF0006BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.789322,-122.398297
+Tmobile,SF0006BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26,T-Mobile NOC,,Small cell,37.789089,-122.395142
+Tmobile,SF0007BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27,T-Mobile NOC,,Small cell,37.790075,-122.394319
+Tmobile,SF0007BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27.2,T-Mobile NOC,,Small cell,37.792708,-122.397386
+Tmobile,SF0007BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26.5,T-Mobile NOC,,Small cell,37.794553,-122.397381
+Tmobile,SF0008BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,28,T-Mobile NOC,,Small cell,37.792375,-122.399725
+Tmobile,SF0008BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,25,T-Mobile NOC,,Small cell,37.792053,-122.402017
+Tmobile,SF0008BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,28,T-Mobile NOC,,Small cell,37.792714,-122.403333
+Tmobile,SF0009BA-1,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,27.5,T-Mobile NOC,,Small cell,37.796172,-122.398033
+Tmobile,SF0009BA-2,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,26,T-Mobile NOC,,Small cell,37.795006,-122.401122
+Tmobile,SF0009BA-3,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,2,On pole,,2100,,28.5,T-Mobile NOC,,Small cell,37.795528,-122.405108
+Tmobile,SF1030BA_31,,ROW,ROW,NA,NA,Pole,,"voice, video, data",,,On pole,,2100/1900,,,T-Mobile NOC,,Small cell,37.755042,-122.423186
+Tmobile,SF33491,,6516,001A,NCT,OS,Engineering DAS,,"voice, video, data",,N/A,Shelter,,1900 / 2100,,15,Rana.Christie30@T-Mobile.com,,DAS,37.75185,-122.41857
+Tmobile,SF03068A,,ROW,ROW,NA,NA,Industrial,,"voice, video, data",,9,Roof,,1900/2100/600/700,,35,T-Mobile NOC,,,37.620576,-122.39824
+Tmobile,SF03122X,,ROW,ROW,NA,NA,Industrial,,"voice, video, data",,2,Roof,,1900/ 2100,,30,T-Mobile NOC,,In-Building - SFO,37.61670211,-122.384996
+Tmobile,SF03126X,,ROW,ROW,NA,NA,Industrial,,"voice, video, data",,2,Roof,,1900/ 2100,,10,T-Mobile NOC,,In-Building - SFO,37.61670211,-122.384996
+Tmobile,SF03159A,,ROW,ROW,NA,NA,Industrial,,"voice, video, data",,9,Roof,,1900/2100/600/700,,41,T-Mobile NOC,,,37.61658333,-122.385139
+Tmobile,SF03181A,,ROW,ROW,NA,NA,Industrial,,"voice, video, data",,6,Roof,,1900/2100,,58,T-Mobile NOC,,,37.628812,-122.401201
+Tmobile,SF70044M,,0755,002,NCT,50-X,Commercial,,"voice, video, data",,3,Roof,,1900/2100,,20,T-Mobile NOC,,,37.78,-122.432
+Tmobile,SF70505M,,Port,Port,M-2,40-X,Light Pole,,"voice, video, data",,3,Ground,,1900/2100,,63,T-Mobile NOC,,,37.7421,-122.379
+Tmobile,SF70555M,,6936,018,NCT,45-X,Commercial,,"voice, video, data",,2,Roof,,1900/2100,,41,T-Mobile NOC,,,37.724183,-122.4588
+Tmobile,SF70568M,,6251,016,NC-2,40-X,Commercial,,"voice, video, data",,2,Roof,,1900/2100,,37,T-Mobile NOC,,,37.712392,-122.40736
+Tmobile,SF73292A,,3728,001,MUO,65-X,Commercial,,"voice, video, data",,1,Roof,,1900/2100,,85,T-Mobile NOC,,,37.783915,-122.404305
+Tmobile,SF83278A,,ROW,ROW,NA,NA,Commercial,,"voice, video, data",,6,Roof,,1900/2100/700,,51,T-Mobile NOC,,,37.805644,-122.417216
+Tmobile,SF93462A,,3707,001,C-3-O(SD),150-S,Commercial,,"voice, video, data",,8,Roof,,1900/2100/600/700,,193,T-Mobile NOC,,,37.78908056,-122.4013306
+Tmobile,SF13024A,,629,16,RM-1,60-F,Medical,,"voice, video, data",,9,Internal,,600/700/1900/2100/2500,,131.30225,Rana.Christie30@T-Mobile.com,,,37.790128,-122.433268
+Tmobile,SF13084A,,3780,006,M2,40-X,Commercial,,"voice, video, data",,6,Rooftop,,600/700/1900/2100/2500,,84.33265,Rana.Christie30@T-Mobile.com,,,37.77194515,-122.405023
+Tmobile,SF13089A,,700,18,NC-3,50-X,Hotel,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,44.31665,Rana.Christie30@T-Mobile.com,,,37.78528247,-122.428265
+Tmobile,SF13093A,,3571,015,CM,50-X,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100,,37.205935,Rana.Christie30@T-Mobile.com,,,37.764253,-122.416725
+Tmobile,SF13097A,,3116,28,NC-1,32-X,Mixed-Use,,"voice, video, data",,6,Ground,,1900/2100/2500,,25.014356,Rana.Christie30@T-Mobile.com,,,37.731228,-122.448586
+Tmobile,SF13102A,,3758,047,SLI,40-X,Commercial,,"voice, video, data",,9,Roof,,1900/2100/2500,,43.129,Rana.Christie30@T-Mobile.com,,,37.7745622,-122.407455
+Tmobile,SF13115B,,0011,008,C-2,40-X,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,51.33585,Rana.Christie30@T-Mobile.com,,,37.807756,-122.417531
+Tmobile,SF13116E,,0208,024,C-3-O,40-X,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,306.7168,Rana.Christie30@T-Mobile.com,,,37.795129,-122.404188
+Tmobile,SF13129A,,1365,011,NC-1,40-x,Mixed-Use,,"voice, video, data",,6,Roof,,1900/2100/2500,,38.290784,Rana.Christie30@T-Mobile.com,,,37.782986,-122.460054
+Tmobile,SF13324A,,7299,005,P,40X & 130D,Building,,"voice, video, data",,8,Roof,,600/700/1900/2100/2500,,164,Rana.Christie30@T-Mobile.com,,,37.723717,-122.481976
+Tmobile,SF13325A,,7080,24,RH-1,40-X,Church,,"voice, video, data",,9,Outdoors,,600/700/1900/2100/2500,,79.2816,Rana.Christie30@T-Mobile.com,,,37.717491,-122.472192
+Tmobile,SF13327A,,2380,42,M-1,65-J,Industrial,,"voice, video, data",,3,Ground,,600/700/1900/2100,,33.3125,Rana.Christie30@T-Mobile.com,,,37.752326,-122.393409
+Tmobile,SF13453A,,4007,2,M-1,40-X,Industrial,,"voice, video, data",,3,Ground,,700/1900/2100,,60.2904,Rana.Christie30@T-Mobile.com,,,37.762721,-122.400606
+Tmobile,SF13455C,,3637,069,NC-3,65-B,Mixed-Use,,"voice, video, data",,10,Ground,,600/700/1900/2100/2500,,119.2648,Rana.Christie30@T-Mobile.com,,,37.75517,-122.418458
+Tmobile,SF23200C,,0179,016,CRNC,65-N,Medical,,"voice, video, data",,6,Basement,,600/700/1900/2100/2500,,58.32225,Rana.Christie30@T-Mobile.com,,,37.79578,-122.409728
+Tmobile,SF23212B,,0173,001,C-2,84-E,Commercial,,"voice, video, data",,1,Roof,,1900/2100,,32.2665,Rana.Christie30@T-Mobile.com,,,37.797619,-122.399777
+Tmobile,SF23221A,,0453,010,NC-1,40-X,Mixed-Use,,"voice, video, data",,9,Roof,,1900/2100/2500,,46.1466,Rana.Christie30@T-Mobile.com,,,37.80521409,-122.423465
+Tmobile,SF23222A,,0539,025,UNION NCD,40-X,Mixed-Use,,"voice, video, data",,6,Roof,,600/700/1900/2100,,40.2697,Rana.Christie30@T-Mobile.com,,,37.79677934,-122.43682
+Tmobile,SF23233H,,NA,NA,NA,NA,Mixed-Use,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,78,Rana.Christie30@T-Mobile.com,,,37.77513,-122.44609
+Tmobile,SF23236A,,3587,046,NC-1,40-X,Mixed-Use,,"voice, video, data",,6,Roof,,600/700/1900/2100/2500,,50.4705,Rana.Christie30@T-Mobile.com,,,37.76156534,-122.425678
+Tmobile,SF23242B,,1617,032A,NC-1,40-X,Mixed-Use,,"voice, video, data",,9,Roof,,1900/2100/2500,,29.1234,Rana.Christie30@T-Mobile.com,,,37.77585597,-122.487294
+Tmobile,SF23244A,,1709,015,NC- 1,40-X,Mixed-Use,,"voice, video, data",,9,Roof,,1900/2100/2500,,32.2665,Rana.Christie30@T-Mobile.com,,,37.762641,-122.500824
+Tmobile,SF23245A,,1801,049,NC-1,40-X,Mixed-Use,,"voice, video, data",,9,Roof,,1900/2100/2500,,37.761092,Rana.Christie30@T-Mobile.com,,,37.762132,-122.506175
+Tmobile,SF23263A,,3780,079,SLI,40X,Commercial,,"voice, video, data",,9,Roof,,1900/2100/2500,,36.2681,Rana.Christie30@T-Mobile.com,,,37.773356,-122.405304
+Tmobile,SF23268B,,3554,029,NCT,40-X,Hotel,,"voice, video, data",,3,Basement,,1900/2100,,28.9784,Rana.Christie30@T-Mobile.com,,,37.766409,-122.421714
+Tmobile,SF23278A,,6418,065,NC-1,40-X,Commercial,,"voice, video, data",,9,Roof,,1900/2100/2500,,39.1274,Rana.Christie30@T-Mobile.com,,,37.712193,-122.43163
+Tmobile,SF23279A,,6409,010,RH-1,65-A,mixed use,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,43.2545,Rana.Christie30@T-Mobile.com,,,37.71589,-122.439586
+Tmobile,SF23293B,,5548,003,RH-1 (D),40-X,Commercial,,"voice, video, data",,9,Internal,,600/700/1900/2100/2500,,41.68755,Rana.Christie30@T-Mobile.com,,,37.743138,-122.414955
+Tmobile,SF33296A,,NA,NA,NA,NA,Residential,,"voice, video, data",,6,Roof,,600/700/1900/2100/2500,,157,Rana.Christie30@T-Mobile.com,,,37.769812,-122.389531
+Tmobile,SF43399W,,Mission Bay UCSF Development,Not Available,MB-RA,90-x/160-x,Commercial,,"voice, video, data",,9,Internal,,600/700/1900/2100/2500,,77.31345,Rana.Christie30@T-Mobile.com,,,37.768338,-122.394109
+Tmobile,SF43557B,,ROW,ROW,PDR-1-G,68-X,Mixed Use,,"voice, video, data",,9,Indoor,,600/700/1900/2100/2500,,71.31105,Rana.Christie30@T-Mobile.com,,,37.757045,-122.387991
+Tmobile,SF43580A,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,9,Pole,,1900/2100/2500,,49.0069,Rana.Christie30@T-Mobile.com,,,37.755928,-122.412127
+Tmobile,SF43584B,,ROW,ROW,RC-3,65-A,Mixed-Use,,"voice, video, data",,9,Basement,,1900/2100/2500,,26.1386,Rana.Christie30@T-Mobile.com,,,37.79463889,-122.411222
+Tmobile,SF43598B,,3733,107,C-3-S,130-F,Residential,,"voice, video, data",,9,Outdoors,,600/700/1900/2100/2500,,144.29105,Rana.Christie30@T-Mobile.com,,,37.78092293,-122.40389
+Tmobile,SF53272A,,ROW,ROW,North Beach,40-X,Utility Pole,,"voice, video, data",,1,Pole,,1900/2100,,38.0065,Rana.Christie30@T-Mobile.com,,,37.799456,-122.408706
+Tmobile,SF53447B,,ROW,ROW,RH-3,40-X,Utility Pole,,"voice, video, data",,9,Pole,,1900/2100/2500,,44.0213,Rana.Christie30@T-Mobile.com,,,37.753608,-122.424094
+Tmobile,SF53450A,,3987,007,UMU,40-X,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,52.2872,Rana.Christie30@T-Mobile.com,,,37.764655,-122.394541
+Tmobile,SF53470A,,3591,001,PDR-1-G,58-X,Commercial,,"voice, video, data",,9,Outdoors,,600/700/1900/2100/2500,,50.31905,Rana.Christie30@T-Mobile.com,,,37.760679,-122.415221
+Tmobile,SF53999A,,ROW,ROW,NC-2,40-X,Mixed-Use,,"voice, video, data",,6,Roof,,1900/2100/2500,,40.115208,Rana.Christie30@T-Mobile.com,,,37.776158,-122.493109
+Tmobile,SF60003S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.80091388,-122.4249528
+Tmobile,SF60214S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79088888,-122.4172417
+Tmobile,SF62005S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79958333,-122.4091111
+Tmobile,SF63000S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.72583888,-122.4011833
+Tmobile,SF63002S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.789375,-122.4018889
+Tmobile,SF63004S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78193333,-122.4111639
+Tmobile,SF63005S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78634444,-122.411125
+Tmobile,SF63008S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78616666,-122.4575833
+Tmobile,SF63022S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.76116666,-122.4951111
+Tmobile,SF63026S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.76871666,-122.4343889
+Tmobile,SF63029S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77956666,-122.401725
+Tmobile,SF63030S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78080555,-122.4730222
+Tmobile,SF63035S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.727175,-122.5035278
+Tmobile,SF63038S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.7770556,-122.3958333
+Tmobile,SF63057S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.7695083,-122.4260917
+Tmobile,SF63067S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77974166,-122.4637889
+Tmobile,SF63138S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.712,-122.461
+Tmobile,SF63158S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79233,-122.4007819
+Tmobile,SF63211S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.75878888,-122.40615
+Tmobile,SF63216S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.774117,-122.400906
+Tmobile,SF63217S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78710277,-122.3982472
+Tmobile,SF63218S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.759363,-122.477172
+Tmobile,SF63303S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79459444,-122.434775
+Tmobile,SF63305S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.742,-122.405
+Tmobile,SF63307S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.76524444,-122.420025
+Tmobile,SF63315S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78244472,-122.4403614
+Tmobile,SF63316S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.71540277,-122.4420111
+Tmobile,SF63407S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.734,-122.426
+Tmobile,SF63489S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.783835,-122.397744
+Tmobile,SF63492S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.776718,-122.414807
+Tmobile,SF63495S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.760233,-122.387962
+Tmobile,SF63515S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.755128,-122.452907
+Tmobile,SF63625S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79,-122.409
+Tmobile,SF63654S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.7669611,-122.3981583
+Tmobile,SF63657S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.7864833,-122.4166111
+Tmobile,SF63658S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78321666,-122.4190389
+Tmobile,SF63659S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78040277,-122.4199028
+Tmobile,SF63660S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77498888,-122.4103
+Tmobile,SF63664S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.79416388,-122.4227611
+Tmobile,SF63674S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.787425,-122.4465472
+Tmobile,SF63675S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77864722,-122.4481667
+Tmobile,SF63677S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77810833,-122.4219667
+Tmobile,SF63802S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.73133333,-122.4487222
+Tmobile,SF63803S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.76205833,-122.4349889
+Tmobile,SF63827S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.80321944,-122.4006944
+Tmobile,SF66004S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,9,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.77903611,-122.4109333
+Tmobile,SF66055S,,NA,NA,NA,NA,ERROR: #N/A,,"voice, video, data",,6,NA,,600/700/1900/2100/2500,,ERROR: #N/A,Rana.Christie30@T-Mobile.com,,,37.78488306,-122.4325461
+Tmobile,SF70020M,,2412,034,NC-3,40X,Public,,"voice, video, data",,9,Basement,,600/700/1900/2100/2500,,37.151765,Rana.Christie30@T-Mobile.com,,,37.743226,-122.470154
+Tmobile,SF70028M,,0271,027,C-3-G,65A,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,120.105292,Rana.Christie30@T-Mobile.com,,,37.7908,-122.406
+Tmobile,SF70033M,,2513,026,NC-2,100A,Community Center,,"voice, video, data",,9,Ground,,600/700/1900/2100/2500,,42,Rana.Christie30@T-Mobile.com,,,37.7359002,-122.503
+Tmobile,SF70038M,,3717,001,C-3-O,160-F,Commercial,,"voice, video, data",,9,Penthouse,,600/700/1900/2100/2500,,256.072476,Rana.Christie30@T-Mobile.com,,,37.7908,-122.392
+Tmobile,SF70039M,,3725,087,C3-S,160F,Commercial,,"voice, video, data",,9,Roof,,600/700/1900/2100/2500,,114.058572,Rana.Christie30@T-Mobile.com,,,37.781401,-122.4076
