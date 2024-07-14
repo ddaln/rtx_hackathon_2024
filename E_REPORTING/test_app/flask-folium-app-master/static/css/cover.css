@@ -50,12 +50,17 @@ body {
 /*
  * Header
  */
-.masthead {
+ .masthead {
   margin-bottom: 2rem;
 }
 
 .masthead-brand {
   margin-bottom: 0;
+}
+
+.masthead-brand img {
+  width: 120px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
 }
 
 .nav-masthead .nav-link {
@@ -88,6 +93,7 @@ body {
     float: right;
   }
 }
+
 
 
 /*

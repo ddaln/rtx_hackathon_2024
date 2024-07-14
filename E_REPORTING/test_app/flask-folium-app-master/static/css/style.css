@@ -382,7 +382,8 @@ body {
 
 /* Add this to shift the iframe down and add a black border */
 .map-iframe {
-    margin-top: 75px;
+    margin-top: 5px;
+    margin-bottom: -15px;
     max-width: 1300px;
     border: 2px solid black;
 }
@@ -396,6 +397,7 @@ body {
     border-radius: 10px;       /* Rounded corners */
     border: 1px solid #ccc;    /* Light grey border */
     margin-top: 50px;          /* Shifted down by 50 pixels */
+    max-width: 1300px;
 }
 .custom-text-block p {
     margin: 0 0 10px;          /* Margin between paragraphs */

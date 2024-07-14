@@ -66,8 +66,3 @@ def process_pings():
 
 def operator_input(building_type,min_num_floors,num_victims):
     pass
-
-#operator_input(building_type="Office", min_num_floors=30, num_victims=12)
-
-df = process_pings()
-print(df)

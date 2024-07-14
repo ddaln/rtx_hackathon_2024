@@ -168,9 +168,9 @@ map_dark = folium.TileLayer(
 for idx, row in tallest_buildings_df.iterrows():
     distance = round(row['Distance_to_Shore'], 3)
     icon_color = 'black'
-    if distance < 0.2:
+    if distance < 0.3:
         icon_color = 'red'
-    elif 0.2 <= distance < 0.5:
+    elif 0.3 <= distance < 0.5:
         icon_color = 'orange'
     else:
         icon_color = 'green'

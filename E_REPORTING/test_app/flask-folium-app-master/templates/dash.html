@@ -21,7 +21,7 @@
             <li class="sidebar__nav__link"><a href="{{ url_for('dash') }}" class="active"><span><i
                             class="fa-solid fa-building"></i></span><span>Map</span></a></li>
             <li class="sidebar__nav__link"><a href="{{ url_for('rag') }}"><span><i
-                            class="fa-solid fa-arrows-rotate"></i></span><span>RAG</span></a></li>
+                            class="fa-solid fa-arrows-rotate"></i></span><span>RoE RAG</span></a></li>
             <!-- <li class="sidebar__nav__link"><a href="#"><span><i
                             class="fa-regular fa-building"></i></span><span>Company</span> <span
                         class="expand">4</span></a></li>
@@ -74,8 +74,8 @@
                         </span>
                     </div>
                     <div class="details">
-                        <h2>News Stories</h2>
-                        <small>Local / National</small>
+                        <h2>News Feed</h2>
+                        <small>Local / National News</small>
                     </div>
                 </div>
                 <!-- <div class="container_main_element">
@@ -103,8 +103,11 @@
         <!-- container heading end -->
 
         <!-- Insert map here -->
+        <div class="custom-text-block"> <p>Tallest buildings in San Francisco</p> </div>
         <iframe class="map-iframe" src="{{ url_for('map') }}" width="100%" height="600px" frameborder="0"></iframe>
+        <div class="custom-text-block"> <p>Areas of highest risk during an earthquake</p> </div>
         <iframe class="map-iframe" src="{{ url_for('map_risk_areas') }}" width="100%" height="600px" frameborder="0"></iframe>
+        <div class="custom-text-block"> <p>Cell towers and associated heat map</p> </div>
         <iframe class="map-iframe" src="{{ url_for('map_cell_towers') }}" width="100%" height="600px" frameborder="0"></iframe>
 
     </main>
